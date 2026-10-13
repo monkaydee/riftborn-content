@@ -2723,7 +2723,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Chartron",
@@ -2755,7 +2755,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Thornmech",
@@ -2787,7 +2787,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Cracklesylph",
@@ -2819,7 +2819,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Admiral Jun",
@@ -2840,7 +2840,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Swordsman Lio",
@@ -2863,7 +2863,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Dawnking",
@@ -2895,7 +2895,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Cracklesylph",
@@ -2927,7 +2927,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Thornmech",
@@ -2959,7 +2959,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Solardragon",
@@ -2991,7 +2991,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Admiral Jun",
@@ -3012,7 +3012,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Captain Vela",
@@ -3033,7 +3033,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Royal Pike",
@@ -3056,7 +3056,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Flareoni",
@@ -3088,7 +3088,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Seraphvixen",
@@ -3120,7 +3120,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Matriarch Calder",
@@ -3141,7 +3141,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Admiral Jun",
@@ -3162,7 +3162,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Solardragon",
@@ -3194,7 +3194,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 18,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Admiral Jun",
@@ -3215,7 +3215,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 19,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Matriarch Calder",
@@ -3236,7 +3236,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 20,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Cracklesylph",
@@ -3268,7 +3268,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 21,
-   "subset_size": 24
+   "subset_size": 26
   },
   {
    "name": "Admiral Jun",
@@ -3289,7 +3289,49 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 22,
-   "subset_size": 24
+   "subset_size": 26
+  },
+  {
+   "name": "Admiral Jun",
+   "kind": "Captain",
+   "element": "lumen",
+   "family": "Skyforge Order",
+   "sub": "Skyforge Order",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ink",
+   "base": 48,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "The great rift opens fully and the legends of old return.",
+   "variant_of": "ra071",
+   "id": "ra071-ip",
+   "number": 123,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 23,
+   "subset_size": 26
+  },
+  {
+   "name": "Admiral Jun",
+   "kind": "Captain",
+   "element": "lumen",
+   "family": "Skyforge Order",
+   "sub": "Skyforge Order",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ink",
+   "base": 149,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "The great rift opens fully and the legends of old return.",
+   "variant_of": "ra099",
+   "id": "ra099-ip",
+   "number": 124,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 24,
+   "subset_size": 26
   },
   {
    "name": "Admiral Jun",
@@ -3305,12 +3347,12 @@
    "flavor": "The great rift opens fully and the legends of old return.",
    "variant_of": "ra099",
    "id": "ra099-rx",
-   "number": 123,
+   "number": 125,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 23,
-   "subset_size": 24
+   "subset_number": 25,
+   "subset_size": 26
   },
   {
    "name": "Thornmech",
@@ -3337,12 +3379,12 @@
    "flavor": "Its gears tick in rhythm with the rift.",
    "variant_of": "ra100",
    "id": "ra100-rx",
-   "number": 124,
+   "number": 126,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 24,
-   "subset_size": 24
+   "subset_number": 26,
+   "subset_size": 26
   }
  ]
 }

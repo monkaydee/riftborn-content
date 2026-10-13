@@ -7,8 +7,8 @@
    "release_date": "2026-11-08",
    "release_time": 1794096000,
    "data": "sets/emberfall.json",
-   "data_hash": "2c481ce36c88",
-   "data_version": 1
+   "data_hash": "56190f721532",
+   "data_version": 2
   },
   {
    "id": "tidecrown",
@@ -16,8 +16,8 @@
    "release_date": "2026-12-18",
    "release_time": 1797552000,
    "data": "sets/tidecrown.json",
-   "data_hash": "1a97807d933e",
-   "data_version": 1
+   "data_hash": "b04577c8f768",
+   "data_version": 2
   },
   {
    "id": "stormcall",
@@ -25,8 +25,8 @@
    "release_date": "2027-01-23",
    "release_time": 1800662400,
    "data": "sets/stormcall.json",
-   "data_hash": "37b7c4a538a8",
-   "data_version": 1
+   "data_hash": "a794f48c7f98",
+   "data_version": 2
   },
   {
    "id": "umbral_eclipse",
@@ -34,8 +34,8 @@
    "release_date": "2027-03-01",
    "release_time": 1803859200,
    "data": "sets/umbral_eclipse.json",
-   "data_hash": "6fce29638d45",
-   "data_version": 1
+   "data_hash": "2d535938610a",
+   "data_version": 2
   },
   {
    "id": "wildroot",
@@ -43,8 +43,8 @@
    "release_date": "2027-04-06",
    "release_time": 1806969600,
    "data": "sets/wildroot.json",
-   "data_hash": "ce9890212e37",
-   "data_version": 1
+   "data_hash": "0a42181dbbeb",
+   "data_version": 2
   },
   {
    "id": "skyward_armada",
@@ -52,8 +52,8 @@
    "release_date": "2027-05-09",
    "release_time": 1809820800,
    "data": "sets/skyward_armada.json",
-   "data_hash": "a078fbb57ce6",
-   "data_version": 1
+   "data_hash": "19fc0cb9432a",
+   "data_version": 2
   },
   {
    "id": "titans_of_terra",
@@ -61,8 +61,8 @@
    "release_date": "2027-06-17",
    "release_time": 1813190400,
    "data": "sets/titans_of_terra.json",
-   "data_hash": "c79954ef9385",
-   "data_version": 1
+   "data_hash": "56f058181bd2",
+   "data_version": 2
   },
   {
    "id": "gilded_dawn",
@@ -70,8 +70,8 @@
    "release_date": "2027-08-01",
    "release_time": 1817078400,
    "data": "sets/gilded_dawn.json",
-   "data_hash": "3aff9736db19",
-   "data_version": 1
+   "data_hash": "4743e3568246",
+   "data_version": 2
   },
   {
    "id": "ashen_crown",
@@ -79,8 +79,8 @@
    "release_date": "2027-09-07",
    "release_time": 1820275200,
    "data": "sets/ashen_crown.json",
-   "data_hash": "e3f3bfd87cca",
-   "data_version": 1
+   "data_hash": "d96473598f62",
+   "data_version": 2
   },
   {
    "id": "abyssal_depths",
@@ -88,8 +88,8 @@
    "release_date": "2027-10-11",
    "release_time": 1823212800,
    "data": "sets/abyssal_depths.json",
-   "data_hash": "21462f88be16",
-   "data_version": 1
+   "data_hash": "d9e8fb47f2cd",
+   "data_version": 2
   },
   {
    "id": "neon_overdrive",
@@ -97,8 +97,8 @@
    "release_date": "2027-11-10",
    "release_time": 1825804800,
    "data": "sets/neon_overdrive.json",
-   "data_hash": "22b458c6e2fd",
-   "data_version": 1
+   "data_hash": "dca0933aeb8e",
+   "data_version": 2
   },
   {
    "id": "nightmare_carnival",
@@ -106,8 +106,8 @@
    "release_date": "2027-12-18",
    "release_time": 1829088000,
    "data": "sets/nightmare_carnival.json",
-   "data_hash": "2d2e6708dd5c",
-   "data_version": 1
+   "data_hash": "5ca0423c3455",
+   "data_version": 2
   },
   {
    "id": "bloom_festival",
@@ -115,8 +115,8 @@
    "release_date": "2028-01-17",
    "release_time": 1831680000,
    "data": "sets/bloom_festival.json",
-   "data_hash": "a7f5a161c663",
-   "data_version": 1
+   "data_hash": "e793d91d47c6",
+   "data_version": 2
   },
   {
    "id": "tempest_rising",
@@ -124,8 +124,8 @@
    "release_date": "2028-03-02",
    "release_time": 1835568000,
    "data": "sets/tempest_rising.json",
-   "data_hash": "c4045f563ff5",
-   "data_version": 1
+   "data_hash": "5dc4e2aa1018",
+   "data_version": 2
   },
   {
    "id": "rift_ascendant",
@@ -133,8 +133,8 @@
    "release_date": "2028-04-06",
    "release_time": 1838592000,
    "data": "sets/rift_ascendant.json",
-   "data_hash": "0abf8b21f4a1",
-   "data_version": 1
+   "data_hash": "3afd5ced7cbd",
+   "data_version": 2
   }
  ]
 }

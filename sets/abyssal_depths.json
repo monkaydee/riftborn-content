@@ -2726,7 +2726,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Geodewhale",
@@ -2758,7 +2758,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Wraithwyrm",
@@ -2790,7 +2790,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Geodewhale",
@@ -2822,7 +2822,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Auratitan",
@@ -2854,7 +2854,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Admiral Brisa",
@@ -2875,7 +2875,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Commodore Kenji",
@@ -2896,7 +2896,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Outlaw Hollis",
@@ -2919,7 +2919,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Navigator Suki",
@@ -2942,7 +2942,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Geodefin",
@@ -2974,7 +2974,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Gulfwyrm",
@@ -3006,7 +3006,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Ripplemech",
@@ -3038,7 +3038,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Admiral Brisa",
@@ -3059,7 +3059,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Auratitan",
@@ -3091,7 +3091,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Admiral Brisa",
@@ -3112,7 +3112,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Navigator Suki",
@@ -3135,7 +3135,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Ripplemech",
@@ -3167,7 +3167,30 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 18
+   "subset_size": 19
+  },
+  {
+   "name": "Navigator Suki",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Skyforge Order",
+   "trait": "Navigator",
+   "sub": "Navigator · Skyforge Order",
+   "hp": 0,
+   "power": 6000,
+   "cost": 1,
+   "rarity": "ink",
+   "base": 46,
+   "ability": "When this Crew attacks, deal 10 damage to a benched Riftborn.",
+   "flavor": "",
+   "variant_of": "ad078",
+   "id": "ad078-ip",
+   "number": 118,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 18,
+   "subset_size": 19
   },
   {
    "name": "Ripplemech",
@@ -3194,12 +3217,12 @@
    "flavor": "Built by Skyforge apprentices, then it built itself.",
    "variant_of": "ad069",
    "id": "ad069-rx",
-   "number": 118,
+   "number": 119,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 18,
-   "subset_size": 18
+   "subset_number": 19,
+   "subset_size": 19
   }
  ]
 }

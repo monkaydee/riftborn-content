@@ -2726,7 +2726,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Gusttitan",
@@ -2758,7 +2758,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Smolderking",
@@ -2790,7 +2790,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Captain Taro",
@@ -2811,7 +2811,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Vanelord",
@@ -2843,7 +2843,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Smolderking",
@@ -2875,7 +2875,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Warlord Oren",
@@ -2896,7 +2896,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Royal Ines",
@@ -2919,7 +2919,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Tamer Kip",
@@ -2942,7 +2942,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Briarray",
@@ -2974,7 +2974,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Prismcolossus",
@@ -3006,7 +3006,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Squalltitan",
@@ -3038,7 +3038,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Matriarch Oren",
@@ -3059,7 +3059,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Staticdaimyo",
@@ -3091,7 +3091,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Warlord Oren",
@@ -3112,7 +3112,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Smolderking",
@@ -3144,7 +3144,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Warlord Oren",
@@ -3165,7 +3165,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Tamer Kip",
@@ -3188,7 +3188,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 18,
-   "subset_size": 20
+   "subset_size": 21
   },
   {
    "name": "Gusttitan",
@@ -3220,7 +3220,28 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 19,
-   "subset_size": 20
+   "subset_size": 21
+  },
+  {
+   "name": "Warlord Oren",
+   "kind": "Captain",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ink",
+   "base": 50,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The great sky fleets race each other to the edge of the map.",
+   "id": "sa045-ip",
+   "number": 120,
+   "variant": "ink",
+   "variant_of": "sa045",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 20,
+   "subset_size": 21
   },
   {
    "name": "Gusttitan",
@@ -3247,12 +3268,12 @@
    "flavor": "Travelers carve their names on it for luck.",
    "variant_of": "sa069",
    "id": "sa069-rx",
-   "number": 120,
+   "number": 121,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 20,
-   "subset_size": 20
+   "subset_number": 21,
+   "subset_size": 21
   }
  ]
 }

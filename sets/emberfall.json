@@ -2725,7 +2725,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Dunedaimyo",
@@ -2757,7 +2757,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Beacontitan",
@@ -2789,7 +2789,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Commodore Mireille",
@@ -2810,7 +2810,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Rippletron",
@@ -2842,7 +2842,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Beacontitan",
@@ -2874,7 +2874,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Grand Marshal Bastian",
@@ -2895,7 +2895,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Commodore Mireille",
@@ -2916,7 +2916,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Royal Xan",
@@ -2939,7 +2939,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Brinegill",
@@ -2971,7 +2971,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Solargolem",
@@ -3003,7 +3003,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Dunedaimyo",
@@ -3035,7 +3035,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Healer Lark",
@@ -3058,7 +3058,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Kindledragon",
@@ -3090,7 +3090,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Dunedaimyo",
@@ -3122,7 +3122,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Cinderwyrm",
@@ -3154,7 +3154,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 19
+   "subset_size": 21
   },
   {
    "name": "Grand Marshal Bastian",
@@ -3175,7 +3175,49 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 19
+   "subset_size": 21
+  },
+  {
+   "name": "Admiral Dorian",
+   "kind": "Captain",
+   "element": "ember",
+   "family": "Abyss Choir",
+   "sub": "Abyss Choir",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 54,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "The great volcano Kaldera wakes and its ash rains over the sky-islands.",
+   "id": "ef096-ip",
+   "number": 118,
+   "variant": "ink",
+   "variant_of": "ef096",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 18,
+   "subset_size": 21
+  },
+  {
+   "name": "Grand Marshal Bastian",
+   "kind": "Captain",
+   "element": "ember",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 4,
+   "rarity": "ink",
+   "base": 109,
+   "ability": "Tide Turner: once per game, switch both active Riftborn.",
+   "flavor": "The great volcano Kaldera wakes and its ash rains over the sky-islands.",
+   "variant_of": "ef099",
+   "id": "ef099-ip",
+   "number": 119,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 19,
+   "subset_size": 21
   },
   {
    "name": "Dunedaimyo",
@@ -3202,12 +3244,12 @@
    "flavor": "Leave it a treat and your house stays lucky.",
    "variant_of": "ef097",
    "id": "ef097-rx",
-   "number": 118,
+   "number": 120,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 18,
-   "subset_size": 19
+   "subset_number": 20,
+   "subset_size": 21
   },
   {
    "name": "Cinderwyrm",
@@ -3234,12 +3276,12 @@
    "flavor": "Hatchlings sleep curled in still-warm craters.",
    "variant_of": "ef098",
    "id": "ef098-rx",
-   "number": 119,
+   "number": 121,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 19,
-   "subset_size": 19
+   "subset_number": 21,
+   "subset_size": 21
   }
  ]
 }

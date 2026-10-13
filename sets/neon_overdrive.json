@@ -2723,7 +2723,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Boltkyuubi",
@@ -2755,7 +2755,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Kindlemech",
@@ -2787,7 +2787,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Claytron",
@@ -2819,7 +2819,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Gleamsylph",
@@ -2851,7 +2851,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Commodore Rhiannon",
@@ -2872,7 +2872,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Warlord Nyx",
@@ -2893,7 +2893,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Tide Signal Flare",
@@ -2913,7 +2913,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Claytron",
@@ -2945,7 +2945,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Kindlemech",
@@ -2977,7 +2977,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Gleamsylph",
@@ -3009,7 +3009,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Eclipsewhale",
@@ -3041,7 +3041,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Commodore Rhiannon",
@@ -3062,7 +3062,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Shipwright Zed",
@@ -3085,7 +3085,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Tamer Sasha",
@@ -3108,7 +3108,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Outlaw Tamsin",
@@ -3131,7 +3131,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Bolttail",
@@ -3163,7 +3163,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Sproutmane",
@@ -3195,7 +3195,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 18,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Surgevixen",
@@ -3227,7 +3227,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 19,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Matriarch Taro",
@@ -3248,7 +3248,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 20,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Boltkyuubi",
@@ -3280,7 +3280,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 21,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Boltkyuubi",
@@ -3312,7 +3312,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 22,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Gleamsylph",
@@ -3344,7 +3344,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 23,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Commodore Rhiannon",
@@ -3365,7 +3365,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 24,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Surgevixen",
@@ -3397,7 +3397,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 25,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Matriarch Taro",
@@ -3418,7 +3418,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 26,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Commodore Rhiannon",
@@ -3439,7 +3439,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 27,
-   "subset_size": 30
+   "subset_size": 32
   },
   {
    "name": "Kindlemech",
@@ -3471,7 +3471,49 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 28,
-   "subset_size": 30
+   "subset_size": 32
+  },
+  {
+   "name": "Matriarch Taro",
+   "kind": "Captain",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 46,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no096-ip",
+   "number": 129,
+   "variant": "ink",
+   "variant_of": "no096",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 29,
+   "subset_size": 32
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 112,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "variant_of": "no099",
+   "id": "no099-ip",
+   "number": 130,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 30,
+   "subset_size": 32
   },
   {
    "name": "Claytron",
@@ -3498,12 +3540,12 @@
    "flavor": "Its gears tick in rhythm with the rift.",
    "variant_of": "no098",
    "id": "no098-rx",
-   "number": 129,
+   "number": 131,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 29,
-   "subset_size": 30
+   "subset_number": 31,
+   "subset_size": 32
   },
   {
    "name": "Kindlemech",
@@ -3530,12 +3572,12 @@
    "flavor": "Built by Skyforge apprentices, then it built itself.",
    "variant_of": "no100",
    "id": "no100-rx",
-   "number": 130,
+   "number": 132,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 30,
-   "subset_size": 30
+   "subset_number": 32,
+   "subset_size": 32
   }
  ]
 }

@@ -2725,7 +2725,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Smolderchimera",
@@ -2757,7 +2757,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Claymech",
@@ -2789,7 +2789,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Scholar Ines",
@@ -2812,7 +2812,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Zaptitan",
@@ -2844,7 +2844,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Smolderchimera",
@@ -2876,7 +2876,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Luxdaimyo",
@@ -2908,7 +2908,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Grand Marshal Rhiannon",
@@ -2929,7 +2929,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Tamer Lark",
@@ -2952,7 +2952,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Claycog",
@@ -2984,7 +2984,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Ignistron",
@@ -3016,7 +3016,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Matriarch Valka",
@@ -3037,7 +3037,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Zaptitan",
@@ -3069,7 +3069,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Claymech",
@@ -3101,7 +3101,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Grand Marshal Rhiannon",
@@ -3122,7 +3122,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Smolderchimera",
@@ -3154,7 +3154,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Scholar Zara",
@@ -3177,7 +3177,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Matriarch Valka",
@@ -3198,7 +3198,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 18,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Zaptitan",
@@ -3230,7 +3230,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 19,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Grand Marshal Rhiannon",
@@ -3251,7 +3251,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 20,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Surgeking",
@@ -3283,7 +3283,51 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 21,
-   "subset_size": 23
+   "subset_size": 25
+  },
+  {
+   "name": "Scholar Zara",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Hollow Moon Syndicate",
+   "trait": "Scholar",
+   "sub": "Scholar · Hollow Moon Syndicate",
+   "hp": 0,
+   "power": 4000,
+   "cost": 4,
+   "rarity": "ink",
+   "base": 36,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "variant_of": "sc074",
+   "id": "sc074-ip",
+   "number": 122,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 22,
+   "subset_size": 25
+  },
+  {
+   "name": "Grand Marshal Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 4,
+   "rarity": "ink",
+   "base": 109,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "A permanent storm front splits the skies and the Neon Ronin ride the lightning.",
+   "variant_of": "sc099",
+   "id": "sc099-ip",
+   "number": 123,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 23,
+   "subset_size": 25
   },
   {
    "name": "Zaptitan",
@@ -3310,12 +3354,12 @@
    "flavor": "Travelers carve their names on it for luck.",
    "variant_of": "sc097",
    "id": "sc097-rx",
-   "number": 122,
+   "number": 124,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 22,
-   "subset_size": 23
+   "subset_number": 24,
+   "subset_size": 25
   },
   {
    "name": "Surgeking",
@@ -3342,12 +3386,12 @@
    "flavor": "No two are stitched together the same way.",
    "variant_of": "sc100",
    "id": "sc100-rx",
-   "number": 123,
+   "number": 125,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 23,
-   "subset_size": 23
+   "subset_number": 25,
+   "subset_size": 25
   }
  ]
 }

@@ -2729,7 +2729,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Pulselord",
@@ -2761,7 +2761,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Captain Morwen",
@@ -2782,7 +2782,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Sproutkyuubi",
@@ -2814,7 +2814,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Zephyrmech",
@@ -2846,7 +2846,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Eclipselord",
@@ -2878,7 +2878,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Captain Morwen",
@@ -2899,7 +2899,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Swordsman Remy",
@@ -2922,7 +2922,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Gunner Mako",
@@ -2945,7 +2945,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Swordsman Vik",
@@ -2968,7 +2968,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Gulftitan",
@@ -3000,7 +3000,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Grand Marshal Hana",
@@ -3021,7 +3021,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Swordsman Remy",
@@ -3044,7 +3044,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Grand Marshal Hana",
@@ -3065,7 +3065,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 16
+   "subset_size": 17
   },
   {
    "name": "Shrouddaimyo",
@@ -3097,7 +3097,28 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 16
+   "subset_size": 17
+  },
+  {
+   "name": "Captain Morwen",
+   "kind": "Captain",
+   "element": "umbra",
+   "family": "Abyss Choir",
+   "sub": "Abyss Choir",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 41,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "A travelling carnival appears on the islands only after midnight.",
+   "variant_of": "nc075",
+   "id": "nc075-ip",
+   "number": 116,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 16,
+   "subset_size": 17
   },
   {
    "name": "Ravenleviathan",
@@ -3124,12 +3145,12 @@
    "flavor": "Whole towns have been built on its back.",
    "variant_of": "nc069",
    "id": "nc069-rx",
-   "number": 116,
+   "number": 117,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 16,
-   "subset_size": 16
+   "subset_number": 17,
+   "subset_size": 17
   }
  ]
 }

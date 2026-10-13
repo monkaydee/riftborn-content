@@ -2726,7 +2726,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Ohmchimera",
@@ -2758,7 +2758,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Ravenkyuubi",
@@ -2790,7 +2790,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Healer Sol",
@@ -2813,7 +2813,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Ravenkyuubi",
@@ -2845,7 +2845,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Cinderleviathan",
@@ -2877,7 +2877,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Auramech",
@@ -2909,7 +2909,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Warlord Lucan",
@@ -2930,7 +2930,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Scholar Corin",
@@ -2953,7 +2953,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Royal Ivo",
@@ -2976,7 +2976,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Surfcog",
@@ -3008,7 +3008,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Undineking",
@@ -3040,7 +3040,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Warlord Lucan",
@@ -3061,7 +3061,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Royal Ivo",
@@ -3084,7 +3084,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Rippleleviathan",
@@ -3116,7 +3116,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 17
+   "subset_size": 18
   },
   {
    "name": "Kelptron",
@@ -3148,7 +3148,28 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 17
+   "subset_size": 18
+  },
+  {
+   "name": "Warlord Lucan",
+   "kind": "Captain",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ink",
+   "base": 41,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "id": "tc045-ip",
+   "number": 117,
+   "variant": "ink",
+   "variant_of": "tc045",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 17,
+   "subset_size": 18
   },
   {
    "name": "Rippleleviathan",
@@ -3175,12 +3196,12 @@
    "flavor": "Sailors toss it fish for good winds.",
    "variant_of": "tc069",
    "id": "tc069-rx",
-   "number": 117,
+   "number": 118,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 17,
-   "subset_size": 17
+   "subset_number": 18,
+   "subset_size": 18
   }
  ]
 }

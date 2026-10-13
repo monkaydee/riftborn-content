@@ -2721,7 +2721,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Corsair Queen Freya",
@@ -2742,7 +2742,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Kindleking",
@@ -2774,7 +2774,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Surgeleviathan",
@@ -2806,7 +2806,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Charleviathan",
@@ -2838,7 +2838,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Corsair Queen Freya",
@@ -2859,7 +2859,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Navigator Sasha",
@@ -2882,7 +2882,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Gunner Emmett",
@@ -2905,7 +2905,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Kindlecub",
@@ -2937,7 +2937,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Sapclaw",
@@ -2969,7 +2969,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Cindervixen",
@@ -3001,7 +3001,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Kelpchimera",
@@ -3033,7 +3033,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Grand Marshal Morwen",
@@ -3054,7 +3054,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Kindleking",
@@ -3086,7 +3086,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Corsair Queen Freya",
@@ -3107,7 +3107,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Basalttitan",
@@ -3139,7 +3139,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Coralwyrm",
@@ -3171,7 +3171,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Corsair Queen Freya",
@@ -3192,7 +3192,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 18,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Navigator Sasha",
@@ -3215,7 +3215,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 19,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Grand Marshal Morwen",
@@ -3236,7 +3236,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 20,
-   "subset_size": 23
+   "subset_size": 25
   },
   {
    "name": "Surgeleviathan",
@@ -3268,7 +3268,49 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 21,
-   "subset_size": 23
+   "subset_size": 25
+  },
+  {
+   "name": "Grand Marshal Morwen",
+   "kind": "Captain",
+   "element": "tide",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 54,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "Pirate warlords fight over the throne of a burned empire.",
+   "id": "ac096-ip",
+   "number": 122,
+   "variant": "ink",
+   "variant_of": "ac096",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 22,
+   "subset_size": 25
+  },
+  {
+   "name": "Corsair Queen Freya",
+   "kind": "Captain",
+   "element": "ember",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 144,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "Pirate warlords fight over the throne of a burned empire.",
+   "variant_of": "ac099",
+   "id": "ac099-ip",
+   "number": 123,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 23,
+   "subset_size": 25
   },
   {
    "name": "Basalttitan",
@@ -3295,12 +3337,12 @@
    "flavor": "Travelers carve their names on it for luck.",
    "variant_of": "ac097",
    "id": "ac097-rx",
-   "number": 122,
+   "number": 124,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 22,
-   "subset_size": 23
+   "subset_number": 24,
+   "subset_size": 25
   },
   {
    "name": "Corsair Queen Freya",
@@ -3316,12 +3358,12 @@
    "flavor": "Pirate warlords fight over the throne of a burned empire.",
    "variant_of": "ac099",
    "id": "ac099-rx",
-   "number": 123,
+   "number": 125,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 23,
-   "subset_size": 23
+   "subset_number": 25,
+   "subset_size": 25
   }
  ]
 }

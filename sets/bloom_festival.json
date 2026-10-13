@@ -2723,7 +2723,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Petalwhale",
@@ -2755,7 +2755,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Pulsevixen",
@@ -2787,7 +2787,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Granitetron",
@@ -2819,7 +2819,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Tamer Pax",
@@ -2842,7 +2842,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Petalwhale",
@@ -2874,7 +2874,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Corsair Queen Calder",
@@ -2895,7 +2895,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Healer Elio",
@@ -2918,7 +2918,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Royal Lio",
@@ -2941,7 +2941,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Kindlewing",
@@ -2973,7 +2973,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Petalray",
@@ -3005,7 +3005,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Arckit",
@@ -3037,7 +3037,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Sproutvixen",
@@ -3069,7 +3069,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Thorntron",
@@ -3101,7 +3101,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Matriarch Hana",
@@ -3122,7 +3122,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Granitetron",
@@ -3154,7 +3154,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Corsair Queen Calder",
@@ -3175,7 +3175,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Pulsevixen",
@@ -3207,7 +3207,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 18,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Corsair Queen Calder",
@@ -3228,7 +3228,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 19,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Sproutvixen",
@@ -3260,7 +3260,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 20,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Granitetron",
@@ -3292,7 +3292,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 21,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Corsair Queen Calder",
@@ -3313,7 +3313,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 22,
-   "subset_size": 25
+   "subset_size": 27
   },
   {
    "name": "Sapchimera",
@@ -3345,7 +3345,49 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 23,
-   "subset_size": 25
+   "subset_size": 27
+  },
+  {
+   "name": "Corsair Queen Calder",
+   "kind": "Captain",
+   "element": "verdant",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 4,
+   "rarity": "ink",
+   "base": 51,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "Every island blooms at once for the hundred-year festival.",
+   "variant_of": "bf071",
+   "id": "bf071-ip",
+   "number": 124,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 24,
+   "subset_size": 27
+  },
+  {
+   "name": "Corsair Queen Calder",
+   "kind": "Captain",
+   "element": "verdant",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 4,
+   "rarity": "ink",
+   "base": 150,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "Every island blooms at once for the hundred-year festival.",
+   "variant_of": "bf099",
+   "id": "bf099-ip",
+   "number": 125,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 25,
+   "subset_size": 27
   },
   {
    "name": "Petalwhale",
@@ -3372,12 +3414,12 @@
    "flavor": "Sailors toss it fish for good winds.",
    "variant_of": "bf097",
    "id": "bf097-rx",
-   "number": 124,
+   "number": 126,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 24,
-   "subset_size": 25
+   "subset_number": 26,
+   "subset_size": 27
   },
   {
    "name": "Corsair Queen Calder",
@@ -3393,12 +3435,12 @@
    "flavor": "Every island blooms at once for the hundred-year festival.",
    "variant_of": "bf099",
    "id": "bf099-rx",
-   "number": 125,
+   "number": 127,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 25,
-   "subset_size": 25
+   "subset_number": 27,
+   "subset_size": 27
   }
  ]
 }

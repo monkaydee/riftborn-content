@@ -2729,7 +2729,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Grand Marshal Cato",
@@ -2750,7 +2750,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Grand Marshal Cato",
@@ -2771,7 +2771,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Gunner Nico",
@@ -2794,7 +2794,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Shipwright Lumi",
@@ -2817,7 +2817,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Navigator Ottilie",
@@ -2840,7 +2840,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Outlaw Brix",
@@ -2863,7 +2863,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Pearlclaw",
@@ -2895,7 +2895,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Shadelord",
@@ -2927,7 +2927,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Matriarch Soren",
@@ -2948,7 +2948,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Grovevixen",
@@ -2980,7 +2980,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Warlord Ezra",
@@ -3001,7 +3001,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Joltwhale",
@@ -3033,7 +3033,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 15
+   "subset_size": 16
   },
   {
    "name": "Eclipsequeen",
@@ -3065,7 +3065,28 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 15
+   "subset_size": 16
+  },
+  {
+   "name": "Warlord Ezra",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Skyforge Order",
+   "sub": "Skyforge Order",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 46,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "A rift eclipses the sun for a hundred nights and shadows learn to walk.",
+   "id": "ue100-ip",
+   "number": 115,
+   "variant": "ink",
+   "variant_of": "ue100",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 15,
+   "subset_size": 16
   },
   {
    "name": "Joltwhale",
@@ -3092,12 +3113,12 @@
    "flavor": "Sailors toss it fish for good winds.",
    "variant_of": "ue069",
    "id": "ue069-rx",
-   "number": 115,
+   "number": 116,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 15,
-   "subset_size": 15
+   "subset_number": 16,
+   "subset_size": 16
   }
  ]
 }

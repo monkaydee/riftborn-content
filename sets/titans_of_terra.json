@@ -2726,7 +2726,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Pulsetitan",
@@ -2758,7 +2758,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Aurachimera",
@@ -2790,7 +2790,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Raven Detour",
@@ -2810,7 +2810,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Granitequeen",
@@ -2842,7 +2842,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Scorchwhale",
@@ -2874,7 +2874,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Scholar Zed",
@@ -2897,7 +2897,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Hexgolem",
@@ -2929,7 +2929,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Corsair Queen Bastian",
@@ -2950,7 +2950,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Commodore Petra",
@@ -2971,7 +2971,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Granitequeen",
@@ -3003,7 +3003,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Corsair Queen Bastian",
@@ -3024,7 +3024,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 15
+   "subset_size": 17
   },
   {
    "name": "Scorchwhale",
@@ -3056,7 +3056,49 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 15
+   "subset_size": 17
+  },
+  {
+   "name": "Corsair Queen Bastian",
+   "kind": "Captain",
+   "element": "terra",
+   "family": "Hollow Moon Syndicate",
+   "sub": "Hollow Moon Syndicate",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 39,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "Mountains crack open and stone titans step out of them.",
+   "id": "tt041-ip",
+   "number": 114,
+   "variant": "ink",
+   "variant_of": "tt041",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 14,
+   "subset_size": 17
+  },
+  {
+   "name": "Corsair Queen Bastian",
+   "kind": "Captain",
+   "element": "terra",
+   "family": "Hollow Moon Syndicate",
+   "sub": "Hollow Moon Syndicate",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 105,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "Mountains crack open and stone titans step out of them.",
+   "variant_of": "tt099",
+   "id": "tt099-ip",
+   "number": 115,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 15,
+   "subset_size": 17
   },
   {
    "name": "Pulsetitan",
@@ -3083,12 +3125,12 @@
    "flavor": "Travelers carve their names on it for luck.",
    "variant_of": "tt098",
    "id": "tt098-rx",
-   "number": 114,
+   "number": 116,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 14,
-   "subset_size": 15
+   "subset_number": 16,
+   "subset_size": 17
   },
   {
    "name": "Scorchwhale",
@@ -3115,12 +3157,12 @@
    "flavor": "Sailors toss it fish for good winds.",
    "variant_of": "tt100",
    "id": "tt100-rx",
-   "number": 115,
+   "number": 117,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 15,
-   "subset_size": 15
+   "subset_number": 17,
+   "subset_size": 17
   }
  ]
 }

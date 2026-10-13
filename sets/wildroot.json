@@ -2724,7 +2724,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Sapmech",
@@ -2756,7 +2756,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Crackleleviathan",
@@ -2788,7 +2788,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Corsair Queen Brisa",
@@ -2809,7 +2809,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Dawn Rally Horn",
@@ -2829,7 +2829,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Sapmech",
@@ -2861,7 +2861,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Crackleleviathan",
@@ -2893,7 +2893,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Noctlord",
@@ -2925,7 +2925,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Corsair Queen Brisa",
@@ -2946,7 +2946,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Warlord Mireille",
@@ -2967,7 +2967,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Shipwright Wes",
@@ -2990,7 +2990,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Noctoni",
@@ -3022,7 +3022,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Hexoni",
@@ -3054,7 +3054,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Mosskyuubi",
@@ -3086,7 +3086,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Glimmerdaimyo",
@@ -3118,7 +3118,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Warlord Vela",
@@ -3139,7 +3139,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Sapmech",
@@ -3171,7 +3171,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Shaleking",
@@ -3203,7 +3203,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 18,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Corsair Queen Brisa",
@@ -3224,7 +3224,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 19,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Crackleleviathan",
@@ -3256,7 +3256,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 20,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Corsair Queen Brisa",
@@ -3277,7 +3277,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 21,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Shipwright Wes",
@@ -3300,7 +3300,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 22,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Warlord Vela",
@@ -3321,7 +3321,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 23,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Shaleking",
@@ -3353,7 +3353,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 24,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Corsair Queen Brisa",
@@ -3374,7 +3374,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 25,
-   "subset_size": 28
+   "subset_size": 30
   },
   {
    "name": "Prismlord",
@@ -3406,7 +3406,49 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 26,
-   "subset_size": 28
+   "subset_size": 30
+  },
+  {
+   "name": "Warlord Vela",
+   "kind": "Captain",
+   "element": "umbra",
+   "family": "Abyss Choir",
+   "sub": "Abyss Choir",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ink",
+   "base": 54,
+   "ability": "Storm Banner: your first attack each turn does 30 more damage.",
+   "flavor": "The Verdant Wardens' ancient forest island wakes up and starts to walk.",
+   "id": "wr096-ip",
+   "number": 127,
+   "variant": "ink",
+   "variant_of": "wr096",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 27,
+   "subset_size": 30
+  },
+  {
+   "name": "Corsair Queen Brisa",
+   "kind": "Captain",
+   "element": "verdant",
+   "family": "Hollow Moon Syndicate",
+   "sub": "Hollow Moon Syndicate",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ink",
+   "base": 102,
+   "ability": "Storm Banner: your first attack each turn does 30 more damage.",
+   "flavor": "The Verdant Wardens' ancient forest island wakes up and starts to walk.",
+   "variant_of": "wr099",
+   "id": "wr099-ip",
+   "number": 128,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 28,
+   "subset_size": 30
   },
   {
    "name": "Sapmech",
@@ -3433,12 +3475,12 @@
    "flavor": "Built by Skyforge apprentices, then it built itself.",
    "variant_of": "wr097",
    "id": "wr097-rx",
-   "number": 127,
+   "number": 129,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 27,
-   "subset_size": 28
+   "subset_number": 29,
+   "subset_size": 30
   },
   {
    "name": "Prismlord",
@@ -3465,12 +3507,12 @@
    "flavor": "Old stories warn: never follow its lantern.",
    "variant_of": "wr100",
    "id": "wr100-rx",
-   "number": 128,
+   "number": 130,
    "variant": "relic",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 28,
-   "subset_size": 28
+   "subset_number": 30,
+   "subset_size": 30
   }
  ]
 }

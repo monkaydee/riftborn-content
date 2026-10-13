@@ -2728,7 +2728,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 1,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Mossmech",
@@ -2760,7 +2760,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 2,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Ionleviathan",
@@ -2792,7 +2792,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 3,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Matriarch Ysolde",
@@ -2813,7 +2813,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 4,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Grand Marshal Soren",
@@ -2834,7 +2834,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 5,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Wispsylph",
@@ -2866,7 +2866,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 6,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Squallkyuubi",
@@ -2898,7 +2898,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 7,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Matriarch Ysolde",
@@ -2919,7 +2919,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 8,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Royal Jada",
@@ -2942,7 +2942,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 9,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Outlaw Pike",
@@ -2965,7 +2965,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 10,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Wispcolossus",
@@ -2997,7 +2997,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 11,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Corsair Queen Garrick",
@@ -3018,7 +3018,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 12,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Wispsylph",
@@ -3050,7 +3050,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 13,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Ionleviathan",
@@ -3082,7 +3082,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 14,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Pyrekyuubi",
@@ -3114,7 +3114,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 15,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Corsair Queen Garrick",
@@ -3135,7 +3135,7 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 16,
-   "subset_size": 18
+   "subset_size": 19
   },
   {
    "name": "Ionleviathan",
@@ -3167,7 +3167,28 @@
    "subset": "Rift Variants",
    "subset_code": "RV",
    "subset_number": 17,
-   "subset_size": 18
+   "subset_size": 19
+  },
+  {
+   "name": "Matriarch Ysolde",
+   "kind": "Captain",
+   "element": "gale",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ink",
+   "base": 48,
+   "ability": "Command: your Tactics cost 1 less.",
+   "flavor": "The winds stop for a day, then return as one endless storm.",
+   "variant_of": "tr075",
+   "id": "tr075-ip",
+   "number": 118,
+   "variant": "ink",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 18,
+   "subset_size": 19
   },
   {
    "name": "Breezewyrm",
@@ -3193,13 +3214,13 @@
    ],
    "flavor": "The winds stop for a day, then return as one endless storm.",
    "id": "tr093-rx",
-   "number": 118,
+   "number": 119,
    "variant": "relic",
    "variant_of": "tr093",
    "subset": "Rift Variants",
    "subset_code": "RV",
-   "subset_number": 18,
-   "subset_size": 18
+   "subset_number": 19,
+   "subset_size": 19
   }
  ]
 }
