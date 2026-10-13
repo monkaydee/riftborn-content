@@ -1,0 +1,3541 @@
+{
+ "format": 1,
+ "id": "neon_overdrive",
+ "name": "Neon Overdrive",
+ "code": "no",
+ "author": "Slab Tycoon",
+ "release_date": "2027-11-10",
+ "release_time": 1825804800,
+ "featured": "volt",
+ "description": "RIFTBORN expansion 11: The Neon Ronin hack the rift itself and the skies glitch. 100 cards.",
+ "cards": [
+  {
+   "name": "Teslaimp",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Yokai",
+   "stage": "Spark",
+   "sub": "Yokai · Spark",
+   "hp": 70,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Static Pulse",
+     "damage": 10,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Arc Rush",
+     "damage": 30,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Leave it a treat and your house stays lucky.",
+   "id": "no001",
+   "number": 1,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 1,
+   "subset_size": 64
+  },
+  {
+   "name": "Statickami",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Yokai",
+   "stage": "Surge",
+   "sub": "Yokai · Surge",
+   "hp": 110,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Thunder Break",
+     "damage": 20,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Chain Fang",
+     "damage": 50,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Leave it a treat and your house stays lucky.",
+   "evolves_from": "Teslaimp",
+   "id": "no002",
+   "number": 2,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 2,
+   "subset_size": 64
+  },
+  {
+   "name": "Surgedaimyo",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Yokai",
+   "stage": "Apex",
+   "sub": "Yokai · Apex",
+   "hp": 170,
+   "rarity": "holo",
+   "base": 15,
+   "attacks": [
+    {
+     "name": "Storm Pulse",
+     "damage": 40,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Volt Fang",
+     "damage": 130,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Leave it a treat and your house stays lucky.",
+   "evolves_from": "Statickami",
+   "id": "no003",
+   "number": 3,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 3,
+   "subset_size": 64
+  },
+  {
+   "name": "Boltmote",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Sprite",
+   "stage": "Spark",
+   "sub": "Sprite · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Static Roar",
+     "damage": 10,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Arc Break",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "id": "no004",
+   "number": 4,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 4,
+   "subset_size": 64
+  },
+  {
+   "name": "Zappixie",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Sprite",
+   "stage": "Surge",
+   "sub": "Sprite · Surge",
+   "hp": 90,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Thunder Break",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Chain Wave",
+     "damage": 70,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "evolves_from": "Boltmote",
+   "id": "no005",
+   "number": 5,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 5,
+   "subset_size": 64
+  },
+  {
+   "name": "Boltqueen",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Sprite",
+   "stage": "Apex",
+   "sub": "Sprite · Apex",
+   "hp": 150,
+   "rarity": "rare",
+   "base": 7,
+   "attacks": [
+    {
+     "name": "Storm Slam",
+     "damage": 30,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Volt Rush",
+     "damage": 90,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Where it dances, the rift stays calm.",
+   "evolves_from": "Zappixie",
+   "id": "no006",
+   "number": 6,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 6,
+   "subset_size": 64
+  },
+  {
+   "name": "Ohmpup",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Spark",
+   "sub": "Kitsune · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Static Crown",
+     "damage": 10,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Arc Pulse",
+     "damage": 30,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "It chases its own tails until they set the grass alight.",
+   "id": "no007",
+   "number": 7,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 7,
+   "subset_size": 64
+  },
+  {
+   "name": "Bolttail",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Surge",
+   "sub": "Kitsune · Surge",
+   "hp": 100,
+   "rarity": "uncommon",
+   "base": 3,
+   "attacks": [
+    {
+     "name": "Thunder Storm",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Chain Roar",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "evolves_from": "Ohmpup",
+   "id": "no008",
+   "number": 8,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 8,
+   "subset_size": 64
+  },
+  {
+   "name": "Boltkyuubi",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "ultra",
+   "base": 44,
+   "attacks": [
+    {
+     "name": "Storm Roar",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Volt Rush",
+     "damage": 130,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "evolves_from": "Bolttail",
+   "id": "no009",
+   "number": 9,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 9,
+   "subset_size": 64
+  },
+  {
+   "name": "Kindlecog",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Spark",
+   "sub": "Mecha-beast · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Ember Wave",
+     "damage": 10,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Flame Pulse",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "id": "no010",
+   "number": 10,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 10,
+   "subset_size": 64
+  },
+  {
+   "name": "Kindlegear",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Surge",
+   "sub": "Mecha-beast · Surge",
+   "hp": 120,
+   "rarity": "uncommon",
+   "base": 3,
+   "attacks": [
+    {
+     "name": "Cinder Snap",
+     "damage": 10,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Blaze Lash",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "evolves_from": "Kindlecog",
+   "id": "no011",
+   "number": 11,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 11,
+   "subset_size": 64
+  },
+  {
+   "name": "Kindlemech",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 150,
+   "rarity": "holo",
+   "base": 24,
+   "attacks": [
+    {
+     "name": "Inferno Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Magma Roar",
+     "damage": 130,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Kindlegear",
+   "id": "no012",
+   "number": 12,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 12,
+   "subset_size": 64
+  },
+  {
+   "name": "Sprayfin",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Spark",
+   "sub": "Leviathan · Spark",
+   "hp": 70,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Bubble Wave",
+     "damage": 10,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Tidal Snap",
+     "damage": 20,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "id": "no013",
+   "number": 13,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 13,
+   "subset_size": 64
+  },
+  {
+   "name": "Spraygill",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Surge",
+   "sub": "Leviathan · Surge",
+   "hp": 120,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Rip Lash",
+     "damage": 20,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Coral Rush",
+     "damage": 60,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Sprayfin",
+   "id": "no014",
+   "number": 14,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 14,
+   "subset_size": 64
+  },
+  {
+   "name": "Sprayleviathan",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 170,
+   "rarity": "rare",
+   "base": 11,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 50,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Abyss Snap",
+     "damage": 150,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Spraygill",
+   "id": "no015",
+   "number": 15,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 15,
+   "subset_size": 64
+  },
+  {
+   "name": "Sproutkin",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Chimera",
+   "stage": "Spark",
+   "sub": "Chimera · Spark",
+   "hp": 70,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Leaf Rush",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Vine Storm",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "id": "no016",
+   "number": 16,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 16,
+   "subset_size": 64
+  },
+  {
+   "name": "Sproutmane",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Chimera",
+   "stage": "Surge",
+   "sub": "Chimera · Surge",
+   "hp": 120,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Root Lash",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Petal Rush",
+     "damage": 70,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "No two are stitched together the same way.",
+   "evolves_from": "Sproutkin",
+   "id": "no017",
+   "number": 17,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 17,
+   "subset_size": 64
+  },
+  {
+   "name": "Sproutking",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Apex",
+   "hp": 160,
+   "rarity": "holo",
+   "base": 15,
+   "attacks": [
+    {
+     "name": "Thorn Spear",
+     "damage": 40,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Bloom Lash",
+     "damage": 130,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "Scholars still argue about which beast came first.",
+   "evolves_from": "Sproutmane",
+   "id": "no018",
+   "number": 18,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 18,
+   "subset_size": 64
+  },
+  {
+   "name": "Claybolt",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Spark",
+   "sub": "Mecha-beast · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Pebble Pulse",
+     "damage": 10,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Quake Burst",
+     "damage": 10,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "id": "no019",
+   "number": 19,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 19,
+   "subset_size": 64
+  },
+  {
+   "name": "Clayhound",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Surge",
+   "sub": "Mecha-beast · Surge",
+   "hp": 110,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Rock Storm",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Amber Crown",
+     "damage": 70,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Claybolt",
+   "id": "no020",
+   "number": 20,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 20,
+   "subset_size": 64
+  },
+  {
+   "name": "Claytron",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 170,
+   "rarity": "ultra",
+   "base": 43,
+   "attacks": [
+    {
+     "name": "Tectonic Fang",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Crystal Fang",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "evolves_from": "Clayhound",
+   "id": "no021",
+   "number": 21,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 21,
+   "subset_size": 64
+  },
+  {
+   "name": "Cirruscub",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Chimera",
+   "stage": "Spark",
+   "sub": "Chimera · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Breeze Lash",
+     "damage": 10,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Air Crown",
+     "damage": 30,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "No two are stitched together the same way.",
+   "id": "no022",
+   "number": 22,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 22,
+   "subset_size": 64
+  },
+  {
+   "name": "Plumemane",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Chimera",
+   "stage": "Surge",
+   "sub": "Chimera · Surge",
+   "hp": 100,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Cyclone Lash",
+     "damage": 20,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Sky Lash",
+     "damage": 50,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "evolves_from": "Cirruscub",
+   "id": "no023",
+   "number": 23,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 23,
+   "subset_size": 64
+  },
+  {
+   "name": "Cirrusking",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Apex",
+   "hp": 170,
+   "rarity": "rare",
+   "base": 8,
+   "attacks": [
+    {
+     "name": "Tempest Lash",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Jet Slam",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "No two are stitched together the same way.",
+   "evolves_from": "Plumemane",
+   "id": "no024",
+   "number": 24,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 24,
+   "subset_size": 64
+  },
+  {
+   "name": "Beaconmote",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Spark",
+   "sub": "Sprite · Spark",
+   "hp": 70,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Glimmer Lash",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Prism Slam",
+     "damage": 30,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "It paints the sky at sunrise and sunset.",
+   "id": "no025",
+   "number": 25,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 25,
+   "subset_size": 64
+  },
+  {
+   "name": "Luxpixie",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Surge",
+   "sub": "Sprite · Surge",
+   "hp": 110,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Halo Break",
+     "damage": 10,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Radiant Roar",
+     "damage": 40,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "evolves_from": "Beaconmote",
+   "id": "no026",
+   "number": 26,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 26,
+   "subset_size": 64
+  },
+  {
+   "name": "Gleamsylph",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Apex",
+   "sub": "Sprite · Apex",
+   "hp": 180,
+   "rarity": "holo",
+   "base": 24,
+   "attacks": [
+    {
+     "name": "Dawn Break",
+     "damage": 50,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Holy Storm",
+     "damage": 150,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "evolves_from": "Luxpixie",
+   "id": "no027",
+   "number": 27,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 27,
+   "subset_size": 64
+  },
+  {
+   "name": "Eclipseminnow",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Leviathan",
+   "stage": "Spark",
+   "sub": "Leviathan · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Shadow Spear",
+     "damage": 10,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Night Slam",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "id": "no028",
+   "number": 28,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 28,
+   "subset_size": 64
+  },
+  {
+   "name": "Shroudgill",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Leviathan",
+   "stage": "Surge",
+   "sub": "Leviathan · Surge",
+   "hp": 90,
+   "rarity": "uncommon",
+   "base": 3,
+   "attacks": [
+    {
+     "name": "Eclipse Slam",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Dread Lash",
+     "damage": 50,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "It sings to the tides when the rifts open.",
+   "evolves_from": "Eclipseminnow",
+   "id": "no029",
+   "number": 29,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 29,
+   "subset_size": 64
+  },
+  {
+   "name": "Eclipsewhale",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 170,
+   "rarity": "holo",
+   "base": 19,
+   "attacks": [
+    {
+     "name": "Void Burst",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Moonless Lash",
+     "damage": 110,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Shroudgill",
+   "id": "no030",
+   "number": 30,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 30,
+   "subset_size": 64
+  },
+  {
+   "name": "Iondrake",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Drake",
+   "stage": "Single",
+   "sub": "Drake",
+   "hp": 90,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Thunder Storm",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Chain Pulse",
+     "damage": 60,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It learns to fly by falling off sky-islands.",
+   "id": "no031",
+   "number": 31,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 31,
+   "subset_size": 64
+  },
+  {
+   "name": "Cinderdrake",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Drake",
+   "stage": "Single",
+   "sub": "Drake",
+   "hp": 90,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Cinder Slam",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Blaze Storm",
+     "damage": 50,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "Its roar is said to restart volcanoes.",
+   "id": "no032",
+   "number": 32,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 32,
+   "subset_size": 64
+  },
+  {
+   "name": "Geodemane",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Chimera",
+   "stage": "Single",
+   "sub": "Chimera",
+   "hp": 100,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Rock Gaze",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Amber Spear",
+     "damage": 50,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Scholars still argue about which beast came first.",
+   "id": "no033",
+   "number": 33,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 33,
+   "subset_size": 64
+  },
+  {
+   "name": "Wraithpixie",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 70,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Eclipse Gaze",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Dread Pulse",
+     "damage": 70,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Where it dances, the rift stays calm.",
+   "id": "no034",
+   "number": 34,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 34,
+   "subset_size": 64
+  },
+  {
+   "name": "Pulsegear",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Mecha-beast",
+   "stage": "Single",
+   "sub": "Mecha-beast",
+   "hp": 80,
+   "rarity": "rare",
+   "base": 7,
+   "attacks": [
+    {
+     "name": "Thunder Crown",
+     "damage": 20,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Chain Break",
+     "damage": 50,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "id": "no035",
+   "number": 35,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 35,
+   "subset_size": 64
+  },
+  {
+   "name": "Pearlwing",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Drake",
+   "stage": "Single",
+   "sub": "Drake",
+   "hp": 100,
+   "rarity": "rare",
+   "base": 9,
+   "attacks": [
+    {
+     "name": "Rip Gaze",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Coral Roar",
+     "damage": 40,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "Its roar is said to restart volcanoes.",
+   "id": "no036",
+   "number": 36,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 36,
+   "subset_size": 64
+  },
+  {
+   "name": "Basaltmane",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Chimera",
+   "stage": "Single",
+   "sub": "Chimera",
+   "hp": 100,
+   "rarity": "rare",
+   "base": 9,
+   "attacks": [
+    {
+     "name": "Rock Pulse",
+     "damage": 20,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Amber Burst",
+     "damage": 70,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Scholars still argue about which beast came first.",
+   "id": "no037",
+   "number": 37,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 37,
+   "subset_size": 64
+  },
+  {
+   "name": "Sootguard",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Golem",
+   "stage": "Single",
+   "sub": "Golem",
+   "hp": 90,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Cinder Storm",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Blaze Spear",
+     "damage": 50,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Mountains are rumored to be its sleeping elders.",
+   "id": "no038",
+   "number": 38,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 38,
+   "subset_size": 64
+  },
+  {
+   "name": "Teslaguard",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Golem",
+   "stage": "Single",
+   "sub": "Golem",
+   "hp": 90,
+   "rarity": "uncommon",
+   "base": 3,
+   "attacks": [
+    {
+     "name": "Thunder Fang",
+     "damage": 20,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Chain Break",
+     "damage": 50,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Mountains are rumored to be its sleeping elders.",
+   "id": "no039",
+   "number": 39,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 39,
+   "subset_size": 64
+  },
+  {
+   "name": "Ferngear",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Mecha-beast",
+   "stage": "Single",
+   "sub": "Mecha-beast",
+   "hp": 70,
+   "rarity": "rare",
+   "base": 9,
+   "attacks": [
+    {
+     "name": "Root Burst",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Petal Slam",
+     "damage": 60,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "Nobody remembers who wound it up first.",
+   "id": "no040",
+   "number": 40,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 40,
+   "subset_size": 64
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ultra",
+   "base": 52,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no041",
+   "number": 41,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 41,
+   "subset_size": 64
+  },
+  {
+   "name": "Warlord Nyx",
+   "kind": "Captain",
+   "element": "lumen",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 4,
+   "rarity": "holo",
+   "base": 24,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no042",
+   "number": 42,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 42,
+   "subset_size": 64
+  },
+  {
+   "name": "Shipwright Zed",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Abyss Choir",
+   "trait": "Shipwright",
+   "sub": "Shipwright · Abyss Choir",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "common",
+   "base": 2,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "id": "no043",
+   "number": 43,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 43,
+   "subset_size": 64
+  },
+  {
+   "name": "Tamer Sasha",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Tamer",
+   "sub": "Tamer · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 4000,
+   "cost": 1,
+   "rarity": "common",
+   "base": 2,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "id": "no044",
+   "number": 44,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 44,
+   "subset_size": 64
+  },
+  {
+   "name": "Tamer Ines",
+   "kind": "Crew",
+   "element": "ember",
+   "family": "Neon Ronin",
+   "trait": "Tamer",
+   "sub": "Tamer · Neon Ronin",
+   "hp": 0,
+   "power": 6000,
+   "cost": 2,
+   "rarity": "uncommon",
+   "base": 5,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "id": "no045",
+   "number": 45,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 45,
+   "subset_size": 64
+  },
+  {
+   "name": "Outlaw Tamsin",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Abyss Choir",
+   "trait": "Outlaw",
+   "sub": "Outlaw · Abyss Choir",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "Once per turn: return a Tactic from your discard to your hand.",
+   "flavor": "",
+   "id": "no046",
+   "number": 46,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 46,
+   "subset_size": 64
+  },
+  {
+   "name": "Navigator Sol",
+   "kind": "Crew",
+   "element": "umbra",
+   "family": "Crimson Gale Pirates",
+   "trait": "Navigator",
+   "sub": "Navigator · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 5000,
+   "cost": 4,
+   "rarity": "rare",
+   "base": 11,
+   "ability": "On Deploy: search your deck for a Spark Riftborn.",
+   "flavor": "",
+   "id": "no047",
+   "number": 47,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 47,
+   "subset_size": 64
+  },
+  {
+   "name": "Swordsman Zed",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Swordsman",
+   "sub": "Swordsman · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 6000,
+   "cost": 4,
+   "rarity": "common",
+   "base": 2,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "id": "no048",
+   "number": 48,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 48,
+   "subset_size": 64
+  },
+  {
+   "name": "Shipwright Posy",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "trait": "Shipwright",
+   "sub": "Shipwright · Verdant Wardens",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "On Deploy: look at the top 3 cards of your deck.",
+   "flavor": "",
+   "id": "no049",
+   "number": 49,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 49,
+   "subset_size": 64
+  },
+  {
+   "name": "Gunner Xan",
+   "kind": "Crew",
+   "element": "ember",
+   "family": "Hollow Moon Syndicate",
+   "trait": "Gunner",
+   "sub": "Gunner · Hollow Moon Syndicate",
+   "hp": 0,
+   "power": 3000,
+   "cost": 3,
+   "rarity": "rare",
+   "base": 8,
+   "ability": "When this Crew attacks, deal 10 damage to a benched Riftborn.",
+   "flavor": "",
+   "id": "no050",
+   "number": 50,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 50,
+   "subset_size": 64
+  },
+  {
+   "name": "Outlaw Sasha",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Verdant Wardens",
+   "trait": "Outlaw",
+   "sub": "Outlaw · Verdant Wardens",
+   "hp": 0,
+   "power": 5000,
+   "cost": 5,
+   "rarity": "common",
+   "base": 2,
+   "ability": "When this Crew attacks, deal 10 damage to a benched Riftborn.",
+   "flavor": "",
+   "id": "no051",
+   "number": 51,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 51,
+   "subset_size": 64
+  },
+  {
+   "name": "Healer Sasha",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "trait": "Healer",
+   "sub": "Healer · Verdant Wardens",
+   "hp": 0,
+   "power": 4000,
+   "cost": 1,
+   "rarity": "holo",
+   "base": 19,
+   "ability": "Your Riftborn of this element get +20 HP.",
+   "flavor": "",
+   "id": "no052",
+   "number": 52,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 52,
+   "subset_size": 64
+  },
+  {
+   "name": "Storm Bounty",
+   "kind": "Tactic",
+   "element": "volt",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "common",
+   "base": 1,
+   "ability": "Discard a card, then draw 3 cards.",
+   "flavor": "",
+   "id": "no053",
+   "number": 53,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 53,
+   "subset_size": 64
+  },
+  {
+   "name": "Noct Bounty",
+   "kind": "Tactic",
+   "element": "umbra",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "Draw 2 cards.",
+   "flavor": "",
+   "id": "no054",
+   "number": 54,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 54,
+   "subset_size": 64
+  },
+  {
+   "name": "Storm Smoke Screen",
+   "kind": "Tactic",
+   "element": "volt",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 8,
+   "ability": "Heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "id": "no055",
+   "number": 55,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 55,
+   "subset_size": 64
+  },
+  {
+   "name": "Prism Smoke Screen",
+   "kind": "Tactic",
+   "element": "lumen",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "common",
+   "base": 1,
+   "ability": "Look at your opponent's hand.",
+   "flavor": "",
+   "id": "no056",
+   "number": 56,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 56,
+   "subset_size": 64
+  },
+  {
+   "name": "Storm Gambit",
+   "kind": "Tactic",
+   "element": "volt",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "Attach an extra energy to one of your Riftborn this turn.",
+   "flavor": "",
+   "id": "no057",
+   "number": 57,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 57,
+   "subset_size": 64
+  },
+  {
+   "name": "Tide Signal Flare",
+   "kind": "Tactic",
+   "element": "tide",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "holo",
+   "base": 20,
+   "ability": "Draw 2 cards.",
+   "flavor": "",
+   "id": "no058",
+   "number": 58,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 58,
+   "subset_size": 64
+  },
+  {
+   "name": "Bolt Sigil",
+   "kind": "Relic",
+   "element": "volt",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "common",
+   "base": 1,
+   "ability": "The Riftborn this is attached to gets +40 HP.",
+   "flavor": "",
+   "id": "no059",
+   "number": 59,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 59,
+   "subset_size": 64
+  },
+  {
+   "name": "Seraph Charm",
+   "kind": "Relic",
+   "element": "lumen",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 3,
+   "ability": "The Riftborn this is attached to gets +40 HP.",
+   "flavor": "",
+   "id": "no060",
+   "number": 60,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 60,
+   "subset_size": 64
+  },
+  {
+   "name": "Storm Gauntlet",
+   "kind": "Relic",
+   "element": "volt",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 12,
+   "ability": "The Riftborn this is attached to gets +40 HP.",
+   "flavor": "",
+   "id": "no061",
+   "number": 61,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 61,
+   "subset_size": 64
+  },
+  {
+   "name": "Dawn Gauntlet",
+   "kind": "Relic",
+   "element": "lumen",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "common",
+   "base": 1,
+   "ability": "The Riftborn this is attached to gets +40 HP.",
+   "flavor": "",
+   "id": "no062",
+   "number": 62,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 62,
+   "subset_size": 64
+  },
+  {
+   "name": "Crackle Citadel",
+   "kind": "Sky Isle",
+   "element": "volt",
+   "family": "Field",
+   "sub": "Field",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 3,
+   "ability": "Riftborn of this element get +20 HP.",
+   "flavor": "",
+   "id": "no063",
+   "number": 63,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 63,
+   "subset_size": 64
+  },
+  {
+   "name": "Night Spire",
+   "kind": "Sky Isle",
+   "element": "umbra",
+   "family": "Field",
+   "sub": "Field",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 9,
+   "ability": "Riftborn of this element get +20 HP.",
+   "flavor": "",
+   "id": "no064",
+   "number": 64,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 64,
+   "subset_size": 64
+  },
+  {
+   "name": "Boltkyuubi",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "ultra",
+   "base": 51,
+   "attacks": [
+    {
+     "name": "Storm Roar",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Volt Rush",
+     "damage": 130,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "evolves_from": "Bolttail",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 1,
+   "variant_of": "no009",
+   "id": "no065",
+   "number": 65,
+   "subset_size": 12
+  },
+  {
+   "name": "Claytron",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 170,
+   "rarity": "holo",
+   "base": 19,
+   "attacks": [
+    {
+     "name": "Tectonic Fang",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Crystal Fang",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "evolves_from": "Clayhound",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 2,
+   "variant_of": "no021",
+   "id": "no066",
+   "number": 66,
+   "subset_size": 12
+  },
+  {
+   "name": "Kindlemech",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 150,
+   "rarity": "holo",
+   "base": 24,
+   "attacks": [
+    {
+     "name": "Inferno Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Magma Roar",
+     "damage": 130,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Kindlegear",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 3,
+   "variant_of": "no012",
+   "id": "no067",
+   "number": 67,
+   "subset_size": 12
+  },
+  {
+   "name": "Gleamsylph",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Apex",
+   "sub": "Sprite · Apex",
+   "hp": 180,
+   "rarity": "ultra",
+   "base": 55,
+   "attacks": [
+    {
+     "name": "Dawn Break",
+     "damage": 50,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Holy Storm",
+     "damage": 150,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "evolves_from": "Luxpixie",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 4,
+   "variant_of": "no027",
+   "id": "no068",
+   "number": 68,
+   "subset_size": 12
+  },
+  {
+   "name": "Eclipsewhale",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 170,
+   "rarity": "holo",
+   "base": 22,
+   "attacks": [
+    {
+     "name": "Void Burst",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Moonless Lash",
+     "damage": 110,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Shroudgill",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 5,
+   "variant_of": "no030",
+   "id": "no069",
+   "number": 69,
+   "subset_size": 12
+  },
+  {
+   "name": "Surgedaimyo",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Yokai",
+   "stage": "Apex",
+   "sub": "Yokai · Apex",
+   "hp": 170,
+   "rarity": "holo",
+   "base": 16,
+   "attacks": [
+    {
+     "name": "Storm Pulse",
+     "damage": 40,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Volt Fang",
+     "damage": 130,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Leave it a treat and your house stays lucky.",
+   "evolves_from": "Statickami",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 6,
+   "variant_of": "no003",
+   "id": "no070",
+   "number": 70,
+   "subset_size": 12
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ultra",
+   "base": 47,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 7,
+   "variant_of": "no041",
+   "id": "no071",
+   "number": 71,
+   "subset_size": 12
+  },
+  {
+   "name": "Warlord Nyx",
+   "kind": "Captain",
+   "element": "lumen",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 4,
+   "rarity": "holo",
+   "base": 24,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 8,
+   "variant_of": "no042",
+   "id": "no072",
+   "number": 72,
+   "subset_size": 12
+  },
+  {
+   "name": "Shipwright Zed",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Abyss Choir",
+   "trait": "Shipwright",
+   "sub": "Shipwright · Abyss Choir",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "holo",
+   "base": 16,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 9,
+   "variant_of": "no043",
+   "id": "no073",
+   "number": 73,
+   "subset_size": 12
+  },
+  {
+   "name": "Tamer Sasha",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Tamer",
+   "sub": "Tamer · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 4000,
+   "cost": 1,
+   "rarity": "ultra",
+   "base": 54,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 10,
+   "variant_of": "no044",
+   "id": "no074",
+   "number": 74,
+   "subset_size": 12
+  },
+  {
+   "name": "Tamer Ines",
+   "kind": "Crew",
+   "element": "ember",
+   "family": "Neon Ronin",
+   "trait": "Tamer",
+   "sub": "Tamer · Neon Ronin",
+   "hp": 0,
+   "power": 6000,
+   "cost": 2,
+   "rarity": "holo",
+   "base": 23,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 11,
+   "variant_of": "no045",
+   "id": "no075",
+   "number": 75,
+   "subset_size": 12
+  },
+  {
+   "name": "Outlaw Tamsin",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Abyss Choir",
+   "trait": "Outlaw",
+   "sub": "Outlaw · Abyss Choir",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "holo",
+   "base": 24,
+   "ability": "Once per turn: return a Tactic from your discard to your hand.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 12,
+   "variant_of": "no046",
+   "id": "no076",
+   "number": 76,
+   "subset_size": 12
+  },
+  {
+   "name": "Bolttail",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Surge",
+   "sub": "Kitsune · Surge",
+   "hp": 100,
+   "rarity": "holo",
+   "base": 17,
+   "attacks": [
+    {
+     "name": "Thunder Storm",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Chain Roar",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "evolves_from": "Ohmpup",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 1,
+   "variant_of": "no008",
+   "id": "no077",
+   "number": 77,
+   "subset_size": 12
+  },
+  {
+   "name": "Cirrusking",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Apex",
+   "hp": 170,
+   "rarity": "rare",
+   "base": 12,
+   "attacks": [
+    {
+     "name": "Tempest Lash",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Jet Slam",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "No two are stitched together the same way.",
+   "evolves_from": "Plumemane",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 2,
+   "variant_of": "no024",
+   "id": "no078",
+   "number": 78,
+   "subset_size": 12
+  },
+  {
+   "name": "Pulsegear",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Mecha-beast",
+   "stage": "Single",
+   "sub": "Mecha-beast",
+   "hp": 80,
+   "rarity": "rare",
+   "base": 8,
+   "attacks": [
+    {
+     "name": "Thunder Crown",
+     "damage": 20,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Chain Break",
+     "damage": 50,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 3,
+   "variant_of": "no035",
+   "id": "no079",
+   "number": 79,
+   "subset_size": 12
+  },
+  {
+   "name": "Sproutkin",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Chimera",
+   "stage": "Spark",
+   "sub": "Chimera · Spark",
+   "hp": 70,
+   "rarity": "holo",
+   "base": 18,
+   "attacks": [
+    {
+     "name": "Leaf Rush",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Vine Storm",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 4,
+   "variant_of": "no016",
+   "id": "no080",
+   "number": 80,
+   "subset_size": 12
+  },
+  {
+   "name": "Sootguard",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Golem",
+   "stage": "Single",
+   "sub": "Golem",
+   "hp": 90,
+   "rarity": "rare",
+   "base": 11,
+   "attacks": [
+    {
+     "name": "Cinder Storm",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Blaze Spear",
+     "damage": 50,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Mountains are rumored to be its sleeping elders.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 5,
+   "variant_of": "no038",
+   "id": "no081",
+   "number": 81,
+   "subset_size": 12
+  },
+  {
+   "name": "Shroudgill",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Leviathan",
+   "stage": "Surge",
+   "sub": "Leviathan · Surge",
+   "hp": 90,
+   "rarity": "rare",
+   "base": 12,
+   "attacks": [
+    {
+     "name": "Eclipse Slam",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Dread Lash",
+     "damage": 50,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "It sings to the tides when the rifts open.",
+   "evolves_from": "Eclipseminnow",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 6,
+   "variant_of": "no029",
+   "id": "no082",
+   "number": 82,
+   "subset_size": 12
+  },
+  {
+   "name": "Sproutmane",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Chimera",
+   "stage": "Surge",
+   "sub": "Chimera · Surge",
+   "hp": 120,
+   "rarity": "holo",
+   "base": 20,
+   "attacks": [
+    {
+     "name": "Root Lash",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Petal Rush",
+     "damage": 70,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "No two are stitched together the same way.",
+   "evolves_from": "Sproutkin",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 7,
+   "variant_of": "no017",
+   "id": "no083",
+   "number": 83,
+   "subset_size": 12
+  },
+  {
+   "name": "Zappixie",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Sprite",
+   "stage": "Surge",
+   "sub": "Sprite · Surge",
+   "hp": 90,
+   "rarity": "rare",
+   "base": 10,
+   "attacks": [
+    {
+     "name": "Thunder Break",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Chain Wave",
+     "damage": 70,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "evolves_from": "Boltmote",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 8,
+   "variant_of": "no005",
+   "id": "no084",
+   "number": 84,
+   "subset_size": 12
+  },
+  {
+   "name": "Boltmote",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Sprite",
+   "stage": "Spark",
+   "sub": "Sprite · Spark",
+   "hp": 60,
+   "rarity": "rare",
+   "base": 12,
+   "attacks": [
+    {
+     "name": "Static Roar",
+     "damage": 10,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Arc Break",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 9,
+   "variant_of": "no004",
+   "id": "no085",
+   "number": 85,
+   "subset_size": 12
+  },
+  {
+   "name": "Teslaimp",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Yokai",
+   "stage": "Spark",
+   "sub": "Yokai · Spark",
+   "hp": 70,
+   "rarity": "holo",
+   "base": 18,
+   "attacks": [
+    {
+     "name": "Static Pulse",
+     "damage": 10,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Arc Rush",
+     "damage": 30,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Leave it a treat and your house stays lucky.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 10,
+   "variant_of": "no001",
+   "id": "no086",
+   "number": 86,
+   "subset_size": 12
+  },
+  {
+   "name": "Teslaguard",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Golem",
+   "stage": "Single",
+   "sub": "Golem",
+   "hp": 90,
+   "rarity": "rare",
+   "base": 9,
+   "attacks": [
+    {
+     "name": "Thunder Fang",
+     "damage": 20,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Chain Break",
+     "damage": 50,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Mountains are rumored to be its sleeping elders.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 11,
+   "variant_of": "no039",
+   "id": "no087",
+   "number": 87,
+   "subset_size": 12
+  },
+  {
+   "name": "Wraithpixie",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 70,
+   "rarity": "rare",
+   "base": 8,
+   "attacks": [
+    {
+     "name": "Eclipse Gaze",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Dread Pulse",
+     "damage": 70,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Where it dances, the rift stays calm.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 12,
+   "variant_of": "no034",
+   "id": "no088",
+   "number": 88,
+   "subset_size": 12
+  },
+  {
+   "name": "Surgevixen",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Legend",
+   "hp": 200,
+   "rarity": "ultra",
+   "base": 44,
+   "attacks": [
+    {
+     "name": "Storm Gaze",
+     "damage": 60,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Volt Fang",
+     "damage": 150,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no089",
+   "number": 89,
+   "subset_number": 1,
+   "subset_size": 8
+  },
+  {
+   "name": "Ionchimera",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Legend",
+   "hp": 180,
+   "rarity": "holo",
+   "base": 15,
+   "attacks": [
+    {
+     "name": "Storm Gaze",
+     "damage": 60,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Volt Crown",
+     "damage": 150,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no090",
+   "number": 90,
+   "subset_number": 2,
+   "subset_size": 8
+  },
+  {
+   "name": "Ionmech",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Legend",
+   "hp": 200,
+   "rarity": "holo",
+   "base": 25,
+   "attacks": [
+    {
+     "name": "Storm Snap",
+     "damage": 60,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Volt Roar",
+     "damage": 170,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no091",
+   "number": 91,
+   "subset_number": 3,
+   "subset_size": 8
+  },
+  {
+   "name": "Zap Gauntlet",
+   "kind": "Relic",
+   "element": "volt",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 12,
+   "ability": "Once per turn: heal 10 from the Riftborn this is attached to.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no092",
+   "number": 92,
+   "subset_number": 4,
+   "subset_size": 8
+  },
+  {
+   "name": "Glitch Charm",
+   "kind": "Relic",
+   "element": "volt",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 12,
+   "ability": "Once per turn: heal 10 from the Riftborn this is attached to.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no093",
+   "number": 93,
+   "subset_number": 5,
+   "subset_size": 8
+  },
+  {
+   "name": "Royal Wes",
+   "kind": "Crew",
+   "element": "verdant",
+   "family": "Verdant Wardens",
+   "trait": "Royal",
+   "sub": "Royal · Verdant Wardens",
+   "hp": 0,
+   "power": 5000,
+   "cost": 4,
+   "rarity": "rare",
+   "base": 11,
+   "ability": "Your Riftborn of this element get +20 HP.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no094",
+   "number": 94,
+   "subset_number": 6,
+   "subset_size": 8
+  },
+  {
+   "name": "Gunner Rafe",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Skyforge Order",
+   "trait": "Gunner",
+   "sub": "Gunner · Skyforge Order",
+   "hp": 0,
+   "power": 5000,
+   "cost": 5,
+   "rarity": "rare",
+   "base": 8,
+   "ability": "On Deploy: look at the top 3 cards of your deck.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no095",
+   "number": 95,
+   "subset_number": 7,
+   "subset_size": 8
+  },
+  {
+   "name": "Matriarch Taro",
+   "kind": "Captain",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ultra",
+   "base": 46,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "System Glitch",
+   "subset_code": "SG",
+   "id": "no096",
+   "number": 96,
+   "subset_number": 8,
+   "subset_size": 8
+  },
+  {
+   "name": "Boltkyuubi",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "secret",
+   "base": 91,
+   "attacks": [
+    {
+     "name": "Storm Roar",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Volt Rush",
+     "damage": 130,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "evolves_from": "Bolttail",
+   "subset": "Secret Rift",
+   "subset_code": "SR",
+   "subset_number": 1,
+   "variant_of": "no009",
+   "id": "no097",
+   "number": 97,
+   "subset_size": 4
+  },
+  {
+   "name": "Claytron",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 170,
+   "rarity": "secret",
+   "base": 118,
+   "attacks": [
+    {
+     "name": "Tectonic Fang",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Crystal Fang",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "evolves_from": "Clayhound",
+   "subset": "Secret Rift",
+   "subset_code": "SR",
+   "subset_number": 2,
+   "variant_of": "no021",
+   "id": "no098",
+   "number": 98,
+   "subset_size": 4
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "secret",
+   "base": 112,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "subset": "Secret Rift",
+   "subset_code": "SR",
+   "subset_number": 3,
+   "variant_of": "no041",
+   "id": "no099",
+   "number": 99,
+   "subset_size": 4
+  },
+  {
+   "name": "Kindlemech",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 150,
+   "rarity": "secret",
+   "base": 118,
+   "attacks": [
+    {
+     "name": "Inferno Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Magma Roar",
+     "damage": 130,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Kindlegear",
+   "subset": "Secret Rift",
+   "subset_code": "SR",
+   "subset_number": 4,
+   "variant_of": "no012",
+   "id": "no100",
+   "number": 100,
+   "subset_size": 4
+  },
+  {
+   "name": "Surgedaimyo",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Yokai",
+   "stage": "Apex",
+   "sub": "Yokai · Apex",
+   "hp": 170,
+   "rarity": "alt",
+   "base": 15,
+   "attacks": [
+    {
+     "name": "Storm Pulse",
+     "damage": 40,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Volt Fang",
+     "damage": 130,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Leave it a treat and your house stays lucky.",
+   "id": "no003-aa",
+   "number": 101,
+   "variant": "alt",
+   "variant_of": "no003",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 1,
+   "subset_size": 30
+  },
+  {
+   "name": "Boltkyuubi",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "alt",
+   "base": 44,
+   "attacks": [
+    {
+     "name": "Storm Roar",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Volt Rush",
+     "damage": 130,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "id": "no009-aa",
+   "number": 102,
+   "variant": "alt",
+   "variant_of": "no009",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 2,
+   "subset_size": 30
+  },
+  {
+   "name": "Kindlemech",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 150,
+   "rarity": "alt",
+   "base": 24,
+   "attacks": [
+    {
+     "name": "Inferno Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Magma Roar",
+     "damage": 130,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "id": "no012-aa",
+   "number": 103,
+   "variant": "alt",
+   "variant_of": "no012",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 3,
+   "subset_size": 30
+  },
+  {
+   "name": "Claytron",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 170,
+   "rarity": "alt",
+   "base": 43,
+   "attacks": [
+    {
+     "name": "Tectonic Fang",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Crystal Fang",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "id": "no021-aa",
+   "number": 104,
+   "variant": "alt",
+   "variant_of": "no021",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 4,
+   "subset_size": 30
+  },
+  {
+   "name": "Gleamsylph",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Apex",
+   "sub": "Sprite · Apex",
+   "hp": 180,
+   "rarity": "alt",
+   "base": 24,
+   "attacks": [
+    {
+     "name": "Dawn Break",
+     "damage": 50,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Holy Storm",
+     "damage": 150,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "id": "no027-aa",
+   "number": 105,
+   "variant": "alt",
+   "variant_of": "no027",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 5,
+   "subset_size": 30
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "alt",
+   "base": 52,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no041-aa",
+   "number": 106,
+   "variant": "alt",
+   "variant_of": "no041",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 6,
+   "subset_size": 30
+  },
+  {
+   "name": "Warlord Nyx",
+   "kind": "Captain",
+   "element": "lumen",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 4,
+   "rarity": "alt",
+   "base": 24,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no042-aa",
+   "number": 107,
+   "variant": "alt",
+   "variant_of": "no042",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 7,
+   "subset_size": 30
+  },
+  {
+   "name": "Tide Signal Flare",
+   "kind": "Tactic",
+   "element": "tide",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "alt",
+   "base": 20,
+   "ability": "Draw 2 cards.",
+   "flavor": "",
+   "id": "no058-aa",
+   "number": 108,
+   "variant": "alt",
+   "variant_of": "no058",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 8,
+   "subset_size": 30
+  },
+  {
+   "name": "Claytron",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 170,
+   "rarity": "alt",
+   "base": 19,
+   "attacks": [
+    {
+     "name": "Tectonic Fang",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Crystal Fang",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "variant_of": "no066",
+   "id": "no066-aa",
+   "number": 109,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 9,
+   "subset_size": 30
+  },
+  {
+   "name": "Kindlemech",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 150,
+   "rarity": "alt",
+   "base": 24,
+   "attacks": [
+    {
+     "name": "Inferno Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Magma Roar",
+     "damage": 130,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "variant_of": "no067",
+   "id": "no067-aa",
+   "number": 110,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 10,
+   "subset_size": 30
+  },
+  {
+   "name": "Gleamsylph",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Apex",
+   "sub": "Sprite · Apex",
+   "hp": 180,
+   "rarity": "alt",
+   "base": 55,
+   "attacks": [
+    {
+     "name": "Dawn Break",
+     "damage": 50,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Holy Storm",
+     "damage": 150,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "variant_of": "no068",
+   "id": "no068-aa",
+   "number": 111,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 11,
+   "subset_size": 30
+  },
+  {
+   "name": "Eclipsewhale",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 170,
+   "rarity": "alt",
+   "base": 22,
+   "attacks": [
+    {
+     "name": "Void Burst",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Moonless Lash",
+     "damage": 110,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "variant_of": "no069",
+   "id": "no069-aa",
+   "number": 112,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 12,
+   "subset_size": 30
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "alt",
+   "base": 47,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "variant_of": "no071",
+   "id": "no071-aa",
+   "number": 113,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 13,
+   "subset_size": 30
+  },
+  {
+   "name": "Shipwright Zed",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Abyss Choir",
+   "trait": "Shipwright",
+   "sub": "Shipwright · Abyss Choir",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "alt",
+   "base": 16,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "variant_of": "no073",
+   "id": "no073-aa",
+   "number": 114,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 14,
+   "subset_size": 30
+  },
+  {
+   "name": "Tamer Sasha",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Tamer",
+   "sub": "Tamer · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 4000,
+   "cost": 1,
+   "rarity": "alt",
+   "base": 54,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "variant_of": "no074",
+   "id": "no074-aa",
+   "number": 115,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 15,
+   "subset_size": 30
+  },
+  {
+   "name": "Outlaw Tamsin",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Abyss Choir",
+   "trait": "Outlaw",
+   "sub": "Outlaw · Abyss Choir",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "alt",
+   "base": 24,
+   "ability": "Once per turn: return a Tactic from your discard to your hand.",
+   "flavor": "",
+   "variant_of": "no076",
+   "id": "no076-aa",
+   "number": 116,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 16,
+   "subset_size": 30
+  },
+  {
+   "name": "Bolttail",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Surge",
+   "sub": "Kitsune · Surge",
+   "hp": 100,
+   "rarity": "alt",
+   "base": 17,
+   "attacks": [
+    {
+     "name": "Thunder Storm",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Chain Roar",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "variant_of": "no077",
+   "id": "no077-aa",
+   "number": 117,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 17,
+   "subset_size": 30
+  },
+  {
+   "name": "Sproutmane",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Chimera",
+   "stage": "Surge",
+   "sub": "Chimera · Surge",
+   "hp": 120,
+   "rarity": "alt",
+   "base": 20,
+   "attacks": [
+    {
+     "name": "Root Lash",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Petal Rush",
+     "damage": 70,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "No two are stitched together the same way.",
+   "variant_of": "no083",
+   "id": "no083-aa",
+   "number": 118,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 18,
+   "subset_size": 30
+  },
+  {
+   "name": "Surgevixen",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Legend",
+   "hp": 200,
+   "rarity": "alt",
+   "base": 44,
+   "attacks": [
+    {
+     "name": "Storm Gaze",
+     "damage": 60,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Volt Fang",
+     "damage": 150,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no089-aa",
+   "number": 119,
+   "variant": "alt",
+   "variant_of": "no089",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 19,
+   "subset_size": 30
+  },
+  {
+   "name": "Matriarch Taro",
+   "kind": "Captain",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 6,
+   "rarity": "alt",
+   "base": 46,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no096-aa",
+   "number": 120,
+   "variant": "alt",
+   "variant_of": "no096",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 20,
+   "subset_size": 30
+  },
+  {
+   "name": "Boltkyuubi",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "illus",
+   "base": 44,
+   "attacks": [
+    {
+     "name": "Storm Roar",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Volt Rush",
+     "damage": 130,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "id": "no009-ri",
+   "number": 121,
+   "variant": "illus",
+   "variant_of": "no009",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 21,
+   "subset_size": 30
+  },
+  {
+   "name": "Boltkyuubi",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "illus",
+   "base": 51,
+   "attacks": [
+    {
+     "name": "Storm Roar",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Volt Rush",
+     "damage": 130,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "variant_of": "no065",
+   "id": "no065-ri",
+   "number": 122,
+   "variant": "illus",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 22,
+   "subset_size": 30
+  },
+  {
+   "name": "Gleamsylph",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Apex",
+   "sub": "Sprite · Apex",
+   "hp": 180,
+   "rarity": "illus",
+   "base": 55,
+   "attacks": [
+    {
+     "name": "Dawn Break",
+     "damage": 50,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Holy Storm",
+     "damage": 150,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "variant_of": "no068",
+   "id": "no068-ri",
+   "number": 123,
+   "variant": "illus",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 23,
+   "subset_size": 30
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "illus",
+   "base": 47,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "variant_of": "no071",
+   "id": "no071-ri",
+   "number": 124,
+   "variant": "illus",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 24,
+   "subset_size": 30
+  },
+  {
+   "name": "Surgevixen",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Legend",
+   "hp": 200,
+   "rarity": "illus",
+   "base": 44,
+   "attacks": [
+    {
+     "name": "Storm Gaze",
+     "damage": 60,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Volt Fang",
+     "damage": 150,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no089-ri",
+   "number": 125,
+   "variant": "illus",
+   "variant_of": "no089",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 25,
+   "subset_size": 30
+  },
+  {
+   "name": "Matriarch Taro",
+   "kind": "Captain",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "sub": "Crimson Gale Pirates",
+   "hp": 0,
+   "life": 6,
+   "rarity": "illus",
+   "base": 46,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "id": "no096-ri",
+   "number": 126,
+   "variant": "illus",
+   "variant_of": "no096",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 26,
+   "subset_size": 30
+  },
+  {
+   "name": "Commodore Rhiannon",
+   "kind": "Captain",
+   "element": "volt",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "gold",
+   "base": 112,
+   "ability": "Rally: once per turn, give one Crew +1000 power.",
+   "flavor": "The Neon Ronin hack the rift itself and the skies glitch.",
+   "variant_of": "no099",
+   "id": "no099-pg",
+   "number": 127,
+   "variant": "gold",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 27,
+   "subset_size": 30
+  },
+  {
+   "name": "Kindlemech",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 150,
+   "rarity": "gold",
+   "base": 118,
+   "attacks": [
+    {
+     "name": "Inferno Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Magma Roar",
+     "damage": 130,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "variant_of": "no100",
+   "id": "no100-pg",
+   "number": 128,
+   "variant": "gold",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 28,
+   "subset_size": 30
+  },
+  {
+   "name": "Claytron",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 170,
+   "rarity": "relic",
+   "base": 118,
+   "attacks": [
+    {
+     "name": "Tectonic Fang",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Crystal Fang",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "variant_of": "no098",
+   "id": "no098-rx",
+   "number": 129,
+   "variant": "relic",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 29,
+   "subset_size": 30
+  },
+  {
+   "name": "Kindlemech",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 150,
+   "rarity": "relic",
+   "base": 118,
+   "attacks": [
+    {
+     "name": "Inferno Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Magma Roar",
+     "damage": 130,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "variant_of": "no100",
+   "id": "no100-rx",
+   "number": 130,
+   "variant": "relic",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 30,
+   "subset_size": 30
+  }
+ ]
+}

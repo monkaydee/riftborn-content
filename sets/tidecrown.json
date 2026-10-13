@@ -1,0 +1,3186 @@
+{
+ "format": 1,
+ "id": "tidecrown",
+ "name": "Tidecrown",
+ "code": "tc",
+ "author": "Slab Tycoon",
+ "release_date": "2026-12-18",
+ "release_time": 1797552000,
+ "featured": "tide",
+ "description": "RIFTBORN expansion 2: The Abyss Choir raises a sunken kingdom into the clouds. 100 cards.",
+ "cards": [
+  {
+   "name": "Surfcog",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Spark",
+   "sub": "Mecha-beast · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Bubble Wave",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Tidal Wave",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "id": "tc001",
+   "number": 1,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 1,
+   "subset_size": 68
+  },
+  {
+   "name": "Surfgear",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Surge",
+   "sub": "Mecha-beast · Surge",
+   "hp": 100,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Rip Slam",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Coral Roar",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Nobody remembers who wound it up first.",
+   "evolves_from": "Surfcog",
+   "id": "tc002",
+   "number": 2,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 2,
+   "subset_size": 68
+  },
+  {
+   "name": "Surfmech",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 200,
+   "rarity": "holo",
+   "base": 15,
+   "attacks": [
+    {
+     "name": "Deluge Roar",
+     "damage": 50,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Abyss Roar",
+     "damage": 150,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Surfgear",
+   "id": "tc003",
+   "number": 3,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 3,
+   "subset_size": 68
+  },
+  {
+   "name": "Ripplepebble",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Golem",
+   "stage": "Spark",
+   "sub": "Golem · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Bubble Wave",
+     "damage": 10,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Tidal Slam",
+     "damage": 30,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Travelers carve their names on it for luck.",
+   "id": "tc004",
+   "number": 4,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 4,
+   "subset_size": 68
+  },
+  {
+   "name": "Abyssguard",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Golem",
+   "stage": "Surge",
+   "sub": "Golem · Surge",
+   "hp": 120,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Rip Crown",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Coral Pulse",
+     "damage": 60,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "Mountains are rumored to be its sleeping elders.",
+   "evolves_from": "Ripplepebble",
+   "id": "tc005",
+   "number": 5,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 5,
+   "subset_size": 68
+  },
+  {
+   "name": "Ripplecolossus",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Golem",
+   "stage": "Apex",
+   "sub": "Golem · Apex",
+   "hp": 150,
+   "rarity": "rare",
+   "base": 9,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 30,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Abyss Lash",
+     "damage": 90,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It naps for a hundred years at a time.",
+   "evolves_from": "Abyssguard",
+   "id": "tc006",
+   "number": 6,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 6,
+   "subset_size": 68
+  },
+  {
+   "name": "Pearlfin",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Spark",
+   "sub": "Leviathan · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Bubble Gaze",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Tidal Fang",
+     "damage": 30,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "id": "tc007",
+   "number": 7,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 7,
+   "subset_size": 68
+  },
+  {
+   "name": "Pearlgill",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Surge",
+   "sub": "Leviathan · Surge",
+   "hp": 90,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Rip Gaze",
+     "damage": 10,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Coral Fang",
+     "damage": 40,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Pearlfin",
+   "id": "tc008",
+   "number": 8,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 8,
+   "subset_size": 68
+  },
+  {
+   "name": "Rippleleviathan",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 160,
+   "rarity": "ultra",
+   "base": 36,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 30,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Abyss Crown",
+     "damage": 90,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "evolves_from": "Pearlgill",
+   "id": "tc009",
+   "number": 9,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 9,
+   "subset_size": 68
+  },
+  {
+   "name": "Cinderminnow",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Leviathan",
+   "stage": "Spark",
+   "sub": "Leviathan · Spark",
+   "hp": 70,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Ember Snap",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Flame Rush",
+     "damage": 30,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "It sings to the tides when the rifts open.",
+   "id": "tc010",
+   "number": 10,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 10,
+   "subset_size": 68
+  },
+  {
+   "name": "Flaregill",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Leviathan",
+   "stage": "Surge",
+   "sub": "Leviathan · Surge",
+   "hp": 90,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Cinder Burst",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Blaze Storm",
+     "damage": 70,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It sings to the tides when the rifts open.",
+   "evolves_from": "Cinderminnow",
+   "id": "tc011",
+   "number": 11,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 11,
+   "subset_size": 68
+  },
+  {
+   "name": "Cinderleviathan",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 200,
+   "rarity": "holo",
+   "base": 19,
+   "attacks": [
+    {
+     "name": "Inferno Snap",
+     "damage": 40,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Magma Wave",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Flaregill",
+   "id": "tc012",
+   "number": 12,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 12,
+   "subset_size": 68
+  },
+  {
+   "name": "Sproutmote",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Sprite",
+   "stage": "Spark",
+   "sub": "Sprite · Spark",
+   "hp": 70,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Leaf Wave",
+     "damage": 10,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Vine Snap",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "Where it dances, the rift stays calm.",
+   "id": "tc013",
+   "number": 13,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 13,
+   "subset_size": 68
+  },
+  {
+   "name": "Sproutsprite",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Sprite",
+   "stage": "Surge",
+   "sub": "Sprite · Surge",
+   "hp": 110,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Root Spear",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Petal Snap",
+     "damage": 50,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "evolves_from": "Sproutmote",
+   "id": "tc014",
+   "number": 14,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 14,
+   "subset_size": 68
+  },
+  {
+   "name": "Thornqueen",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Sprite",
+   "stage": "Apex",
+   "sub": "Sprite · Apex",
+   "hp": 200,
+   "rarity": "rare",
+   "base": 10,
+   "attacks": [
+    {
+     "name": "Thorn Storm",
+     "damage": 50,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Bloom Slam",
+     "damage": 150,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "It paints the sky at sunrise and sunset.",
+   "evolves_from": "Sproutsprite",
+   "id": "tc015",
+   "number": 15,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 15,
+   "subset_size": 68
+  },
+  {
+   "name": "Pulsecub",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Chimera",
+   "stage": "Spark",
+   "sub": "Chimera · Spark",
+   "hp": 70,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Static Storm",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Arc Break",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Scholars still argue about which beast came first.",
+   "id": "tc016",
+   "number": 16,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 16,
+   "subset_size": 68
+  },
+  {
+   "name": "Teslaclaw",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Chimera",
+   "stage": "Surge",
+   "sub": "Chimera · Surge",
+   "hp": 110,
+   "rarity": "uncommon",
+   "base": 3,
+   "attacks": [
+    {
+     "name": "Thunder Wave",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Chain Snap",
+     "damage": 50,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "evolves_from": "Pulsecub",
+   "id": "tc017",
+   "number": 17,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 17,
+   "subset_size": 68
+  },
+  {
+   "name": "Ohmchimera",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Apex",
+   "hp": 150,
+   "rarity": "holo",
+   "base": 25,
+   "attacks": [
+    {
+     "name": "Storm Snap",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Volt Crown",
+     "damage": 110,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "evolves_from": "Teslaclaw",
+   "id": "tc018",
+   "number": 18,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 18,
+   "subset_size": 68
+  },
+  {
+   "name": "Flintminnow",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Leviathan",
+   "stage": "Spark",
+   "sub": "Leviathan · Spark",
+   "hp": 50,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Pebble Roar",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Quake Break",
+     "damage": 30,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "It sings to the tides when the rifts open.",
+   "id": "tc019",
+   "number": 19,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 19,
+   "subset_size": 68
+  },
+  {
+   "name": "Flintray",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Leviathan",
+   "stage": "Surge",
+   "sub": "Leviathan · Surge",
+   "hp": 90,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Rock Spear",
+     "damage": 20,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Amber Crown",
+     "damage": 60,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "evolves_from": "Flintminnow",
+   "id": "tc020",
+   "number": 20,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 20,
+   "subset_size": 68
+  },
+  {
+   "name": "Cragwhale",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 200,
+   "rarity": "ultra",
+   "base": 35,
+   "attacks": [
+    {
+     "name": "Tectonic Burst",
+     "damage": 50,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Crystal Storm",
+     "damage": 150,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Flintray",
+   "id": "tc021",
+   "number": 21,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 21,
+   "subset_size": 68
+  },
+  {
+   "name": "Gusthatch",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Drake",
+   "stage": "Spark",
+   "sub": "Drake · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Breeze Crown",
+     "damage": 10,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Air Gaze",
+     "damage": 10,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Hatchlings sleep curled in still-warm craters.",
+   "id": "tc022",
+   "number": 22,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 22,
+   "subset_size": 68
+  },
+  {
+   "name": "Gustdrake",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Drake",
+   "stage": "Surge",
+   "sub": "Drake · Surge",
+   "hp": 110,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Cyclone Burst",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Sky Slam",
+     "damage": 40,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "Its roar is said to restart volcanoes.",
+   "evolves_from": "Gusthatch",
+   "id": "tc023",
+   "number": 23,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 23,
+   "subset_size": 68
+  },
+  {
+   "name": "Gustwyrm",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Drake",
+   "stage": "Apex",
+   "sub": "Drake · Apex",
+   "hp": 160,
+   "rarity": "rare",
+   "base": 11,
+   "attacks": [
+    {
+     "name": "Tempest Pulse",
+     "damage": 50,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Jet Fang",
+     "damage": 150,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Its roar is said to restart volcanoes.",
+   "evolves_from": "Gustdrake",
+   "id": "tc024",
+   "number": 24,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 24,
+   "subset_size": 68
+  },
+  {
+   "name": "Solarbolt",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Mecha-beast",
+   "stage": "Spark",
+   "sub": "Mecha-beast · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Glimmer Storm",
+     "damage": 10,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Prism Slam",
+     "damage": 10,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Nobody remembers who wound it up first.",
+   "id": "tc025",
+   "number": 25,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 25,
+   "subset_size": 68
+  },
+  {
+   "name": "Aurahound",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Mecha-beast",
+   "stage": "Surge",
+   "sub": "Mecha-beast · Surge",
+   "hp": 90,
+   "rarity": "uncommon",
+   "base": 3,
+   "attacks": [
+    {
+     "name": "Halo Storm",
+     "damage": 20,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Radiant Storm",
+     "damage": 70,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Solarbolt",
+   "id": "tc026",
+   "number": 26,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 26,
+   "subset_size": 68
+  },
+  {
+   "name": "Auramech",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 180,
+   "rarity": "holo",
+   "base": 19,
+   "attacks": [
+    {
+     "name": "Dawn Burst",
+     "damage": 40,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Holy Break",
+     "damage": 110,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "evolves_from": "Aurahound",
+   "id": "tc027",
+   "number": 27,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 27,
+   "subset_size": 68
+  },
+  {
+   "name": "Shroudkit",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Kitsune",
+   "stage": "Spark",
+   "sub": "Kitsune · Spark",
+   "hp": 60,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Shadow Break",
+     "damage": 10,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Night Storm",
+     "damage": 30,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "id": "tc028",
+   "number": 28,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 28,
+   "subset_size": 68
+  },
+  {
+   "name": "Dusktail",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Kitsune",
+   "stage": "Surge",
+   "sub": "Kitsune · Surge",
+   "hp": 120,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Eclipse Snap",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Dread Rush",
+     "damage": 60,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "It chases its own tails until they set the grass alight.",
+   "evolves_from": "Shroudkit",
+   "id": "tc029",
+   "number": 29,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 29,
+   "subset_size": 68
+  },
+  {
+   "name": "Ravenkyuubi",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "holo",
+   "base": 21,
+   "attacks": [
+    {
+     "name": "Void Crown",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Moonless Burst",
+     "damage": 110,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "evolves_from": "Dusktail",
+   "id": "tc030",
+   "number": 30,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 30,
+   "subset_size": 68
+  },
+  {
+   "name": "Coralpixie",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 80,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Rip Gaze",
+     "damage": 10,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Coral Roar",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Where it dances, the rift stays calm.",
+   "id": "tc031",
+   "number": 31,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 31,
+   "subset_size": 68
+  },
+  {
+   "name": "Scorchfox",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Kitsune",
+   "stage": "Single",
+   "sub": "Kitsune",
+   "hp": 100,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Cinder Snap",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Blaze Roar",
+     "damage": 70,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "id": "tc032",
+   "number": 32,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 32,
+   "subset_size": 68
+  },
+  {
+   "name": "Zephyrclaw",
+   "kind": "Riftborn",
+   "element": "gale",
+   "family": "Chimera",
+   "stage": "Single",
+   "sub": "Chimera",
+   "hp": 80,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Cyclone Burst",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Sky Gaze",
+     "damage": 60,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "id": "tc033",
+   "number": 33,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 33,
+   "subset_size": 68
+  },
+  {
+   "name": "Misthound",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Single",
+   "sub": "Mecha-beast",
+   "hp": 70,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Rip Gaze",
+     "damage": 10,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Coral Storm",
+     "damage": 40,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "id": "tc034",
+   "number": 34,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 34,
+   "subset_size": 68
+  },
+  {
+   "name": "Spraysprite",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 110,
+   "rarity": "rare",
+   "base": 8,
+   "attacks": [
+    {
+     "name": "Rip Burst",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Coral Wave",
+     "damage": 60,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "It paints the sky at sunrise and sunset.",
+   "id": "tc035",
+   "number": 35,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 35,
+   "subset_size": 68
+  },
+  {
+   "name": "Gleamsprite",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 90,
+   "rarity": "rare",
+   "base": 8,
+   "attacks": [
+    {
+     "name": "Halo Slam",
+     "damage": 20,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Radiant Pulse",
+     "damage": 50,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    }
+   ],
+   "flavor": "You only see it from the corner of your eye.",
+   "id": "tc036",
+   "number": 36,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 36,
+   "subset_size": 68
+  },
+  {
+   "name": "Flintfox",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Kitsune",
+   "stage": "Single",
+   "sub": "Kitsune",
+   "hp": 70,
+   "rarity": "rare",
+   "base": 10,
+   "attacks": [
+    {
+     "name": "Rock Spear",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Amber Snap",
+     "damage": 70,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "id": "tc037",
+   "number": 37,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 37,
+   "subset_size": 68
+  },
+  {
+   "name": "Boltgolem",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Golem",
+   "stage": "Single",
+   "sub": "Golem",
+   "hp": 80,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Thunder Slam",
+     "damage": 20,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Chain Slam",
+     "damage": 70,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It naps for a hundred years at a time.",
+   "id": "tc038",
+   "number": 38,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 38,
+   "subset_size": 68
+  },
+  {
+   "name": "Undinegolem",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Golem",
+   "stage": "Single",
+   "sub": "Golem",
+   "hp": 100,
+   "rarity": "uncommon",
+   "base": 3,
+   "attacks": [
+    {
+     "name": "Rip Gaze",
+     "damage": 10,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Coral Roar",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Mountains are rumored to be its sleeping elders.",
+   "id": "tc039",
+   "number": 39,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 39,
+   "subset_size": 68
+  },
+  {
+   "name": "Staticpixie",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 70,
+   "rarity": "rare",
+   "base": 12,
+   "attacks": [
+    {
+     "name": "Thunder Burst",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Chain Snap",
+     "damage": 70,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Where it dances, the rift stays calm.",
+   "id": "tc040",
+   "number": 40,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 40,
+   "subset_size": 68
+  },
+  {
+   "name": "Thorndrake",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Drake",
+   "stage": "Single",
+   "sub": "Drake",
+   "hp": 90,
+   "rarity": "common",
+   "base": 2,
+   "attacks": [
+    {
+     "name": "Root Fang",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Petal Pulse",
+     "damage": 60,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Its roar is said to restart volcanoes.",
+   "id": "tc041",
+   "number": 41,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 41,
+   "subset_size": 68
+  },
+  {
+   "name": "Scorchgill",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Leviathan",
+   "stage": "Single",
+   "sub": "Leviathan",
+   "hp": 110,
+   "rarity": "common",
+   "base": 1,
+   "attacks": [
+    {
+     "name": "Cinder Storm",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Blaze Spear",
+     "damage": 50,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "id": "tc042",
+   "number": 42,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 42,
+   "subset_size": 68
+  },
+  {
+   "name": "Pearlsprite",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 110,
+   "rarity": "uncommon",
+   "base": 5,
+   "attacks": [
+    {
+     "name": "Rip Burst",
+     "damage": 10,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Coral Slam",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "It paints the sky at sunrise and sunset.",
+   "id": "tc043",
+   "number": 43,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 43,
+   "subset_size": 68
+  },
+  {
+   "name": "Brinefox",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Kitsune",
+   "stage": "Single",
+   "sub": "Kitsune",
+   "hp": 100,
+   "rarity": "uncommon",
+   "base": 4,
+   "attacks": [
+    {
+     "name": "Rip Wave",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Coral Break",
+     "damage": 50,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "id": "tc044",
+   "number": 44,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 44,
+   "subset_size": 68
+  },
+  {
+   "name": "Warlord Lucan",
+   "kind": "Captain",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ultra",
+   "base": 41,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "id": "tc045",
+   "number": 45,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 45,
+   "subset_size": 68
+  },
+  {
+   "name": "Admiral Thessaly",
+   "kind": "Captain",
+   "element": "terra",
+   "family": "Skyforge Order",
+   "sub": "Skyforge Order",
+   "hp": 0,
+   "life": 5,
+   "rarity": "holo",
+   "base": 15,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "id": "tc046",
+   "number": 46,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 46,
+   "subset_size": 68
+  },
+  {
+   "name": "Scholar Corin",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "trait": "Scholar",
+   "sub": "Scholar · Neon Ronin",
+   "hp": 0,
+   "power": 5000,
+   "cost": 3,
+   "rarity": "common",
+   "base": 1,
+   "ability": "On Deploy: draw a card.",
+   "flavor": "",
+   "id": "tc047",
+   "number": 47,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 47,
+   "subset_size": 68
+  },
+  {
+   "name": "Royal Ivo",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Royal",
+   "sub": "Royal · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 6000,
+   "cost": 5,
+   "rarity": "common",
+   "base": 1,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "id": "tc048",
+   "number": 48,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 48,
+   "subset_size": 68
+  },
+  {
+   "name": "Healer Remy",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "trait": "Healer",
+   "sub": "Healer · Neon Ronin",
+   "hp": 0,
+   "power": 4000,
+   "cost": 1,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "Your Riftborn of this element get +20 HP.",
+   "flavor": "",
+   "id": "tc049",
+   "number": 49,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 49,
+   "subset_size": 68
+  },
+  {
+   "name": "Tamer Tamsin",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Verdant Wardens",
+   "trait": "Tamer",
+   "sub": "Tamer · Verdant Wardens",
+   "hp": 0,
+   "power": 5000,
+   "cost": 5,
+   "rarity": "uncommon",
+   "base": 5,
+   "ability": "On Deploy: draw a card.",
+   "flavor": "",
+   "id": "tc050",
+   "number": 50,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 50,
+   "subset_size": 68
+  },
+  {
+   "name": "Outlaw Dax",
+   "kind": "Crew",
+   "element": "ember",
+   "family": "Hollow Moon Syndicate",
+   "trait": "Outlaw",
+   "sub": "Outlaw · Hollow Moon Syndicate",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "rare",
+   "base": 7,
+   "ability": "Once per turn: return a Tactic from your discard to your hand.",
+   "flavor": "",
+   "id": "tc051",
+   "number": 51,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 51,
+   "subset_size": 68
+  },
+  {
+   "name": "Royal Hye",
+   "kind": "Crew",
+   "element": "umbra",
+   "family": "Neon Ronin",
+   "trait": "Royal",
+   "sub": "Royal · Neon Ronin",
+   "hp": 0,
+   "power": 4000,
+   "cost": 5,
+   "rarity": "common",
+   "base": 2,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "id": "tc052",
+   "number": 52,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 52,
+   "subset_size": 68
+  },
+  {
+   "name": "Outlaw Lark",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Crimson Gale Pirates",
+   "trait": "Outlaw",
+   "sub": "Outlaw · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 5000,
+   "cost": 3,
+   "rarity": "uncommon",
+   "base": 3,
+   "ability": "This Crew gets +1000 power while your Captain is damaged.",
+   "flavor": "",
+   "id": "tc053",
+   "number": 53,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 53,
+   "subset_size": 68
+  },
+  {
+   "name": "Outlaw Fen",
+   "kind": "Crew",
+   "element": "volt",
+   "family": "Hollow Moon Syndicate",
+   "trait": "Outlaw",
+   "sub": "Outlaw · Hollow Moon Syndicate",
+   "hp": 0,
+   "power": 4000,
+   "cost": 2,
+   "rarity": "rare",
+   "base": 12,
+   "ability": "On Deploy: draw a card.",
+   "flavor": "",
+   "id": "tc054",
+   "number": 54,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 54,
+   "subset_size": 68
+  },
+  {
+   "name": "Royal Flora",
+   "kind": "Crew",
+   "element": "terra",
+   "family": "Abyss Choir",
+   "trait": "Royal",
+   "sub": "Royal · Abyss Choir",
+   "hp": 0,
+   "power": 5000,
+   "cost": 4,
+   "rarity": "common",
+   "base": 2,
+   "ability": "On Deploy: look at the top 3 cards of your deck.",
+   "flavor": "",
+   "id": "tc055",
+   "number": 55,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 55,
+   "subset_size": 68
+  },
+  {
+   "name": "Healer Sol",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Abyss Choir",
+   "trait": "Healer",
+   "sub": "Healer · Abyss Choir",
+   "hp": 0,
+   "power": 6000,
+   "cost": 2,
+   "rarity": "holo",
+   "base": 25,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "id": "tc056",
+   "number": 56,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 56,
+   "subset_size": 68
+  },
+  {
+   "name": "Pearl Rally Horn",
+   "kind": "Tactic",
+   "element": "tide",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "common",
+   "base": 2,
+   "ability": "Switch your active Riftborn with one on your bench.",
+   "flavor": "",
+   "id": "tc057",
+   "number": 57,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 57,
+   "subset_size": 68
+  },
+  {
+   "name": "Stone Shortcut",
+   "kind": "Tactic",
+   "element": "terra",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "Discard a card, then draw 3 cards.",
+   "flavor": "",
+   "id": "tc058",
+   "number": 58,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 58,
+   "subset_size": 68
+  },
+  {
+   "name": "Undine Rally Horn",
+   "kind": "Tactic",
+   "element": "tide",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 12,
+   "ability": "Search your deck for up to 2 Crew cards.",
+   "flavor": "",
+   "id": "tc059",
+   "number": 59,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 59,
+   "subset_size": 68
+  },
+  {
+   "name": "Sky Tonic",
+   "kind": "Tactic",
+   "element": "gale",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "common",
+   "base": 1,
+   "ability": "Switch your active Riftborn with one on your bench.",
+   "flavor": "",
+   "id": "tc060",
+   "number": 60,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 60,
+   "subset_size": 68
+  },
+  {
+   "name": "Tide Salvage",
+   "kind": "Tactic",
+   "element": "tide",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 5,
+   "ability": "Look at your opponent's hand.",
+   "flavor": "",
+   "id": "tc061",
+   "number": 61,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 61,
+   "subset_size": 68
+  },
+  {
+   "name": "Night Gambit",
+   "kind": "Tactic",
+   "element": "umbra",
+   "family": "Item",
+   "sub": "Item",
+   "hp": 0,
+   "rarity": "holo",
+   "base": 22,
+   "ability": "Attach an extra energy to one of your Riftborn this turn.",
+   "flavor": "",
+   "id": "tc062",
+   "number": 62,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 62,
+   "subset_size": 68
+  },
+  {
+   "name": "Reef Charm",
+   "kind": "Relic",
+   "element": "tide",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "common",
+   "base": 2,
+   "ability": "Your attacks can't be reduced by effects.",
+   "flavor": "",
+   "id": "tc063",
+   "number": 63,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 63,
+   "subset_size": 68
+  },
+  {
+   "name": "Dawn Sigil",
+   "kind": "Relic",
+   "element": "lumen",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "The Riftborn this is attached to does 20 more damage.",
+   "flavor": "",
+   "id": "tc064",
+   "number": 64,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 64,
+   "subset_size": 68
+  },
+  {
+   "name": "Tide Lantern",
+   "kind": "Relic",
+   "element": "tide",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 9,
+   "ability": "The Riftborn this is attached to gets +40 HP.",
+   "flavor": "",
+   "id": "tc065",
+   "number": 65,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 65,
+   "subset_size": 68
+  },
+  {
+   "name": "Night Crown",
+   "kind": "Relic",
+   "element": "umbra",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "common",
+   "base": 2,
+   "ability": "The Riftborn this is attached to does 20 more damage.",
+   "flavor": "",
+   "id": "tc066",
+   "number": 66,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 66,
+   "subset_size": 68
+  },
+  {
+   "name": "Surf Citadel",
+   "kind": "Sky Isle",
+   "element": "tide",
+   "family": "Field",
+   "sub": "Field",
+   "hp": 0,
+   "rarity": "uncommon",
+   "base": 4,
+   "ability": "Whenever a player flips a coin, they may flip it again.",
+   "flavor": "",
+   "id": "tc067",
+   "number": 67,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 67,
+   "subset_size": 68
+  },
+  {
+   "name": "Cobble Spire",
+   "kind": "Sky Isle",
+   "element": "terra",
+   "family": "Field",
+   "sub": "Field",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 10,
+   "ability": "Each player may search for a Tactic once per turn.",
+   "flavor": "",
+   "id": "tc068",
+   "number": 68,
+   "subset": "Main Set",
+   "subset_code": "",
+   "subset_number": 68,
+   "subset_size": 68
+  },
+  {
+   "name": "Rippleleviathan",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 160,
+   "rarity": "secret",
+   "base": 100,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 30,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Abyss Crown",
+     "damage": 90,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "evolves_from": "Pearlgill",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 1,
+   "variant_of": "tc009",
+   "id": "tc069",
+   "number": 69,
+   "subset_size": 12
+  },
+  {
+   "name": "Cragwhale",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 200,
+   "rarity": "holo",
+   "base": 23,
+   "attacks": [
+    {
+     "name": "Tectonic Burst",
+     "damage": 50,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Crystal Storm",
+     "damage": 150,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Flintray",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 2,
+   "variant_of": "tc021",
+   "id": "tc070",
+   "number": 70,
+   "subset_size": 12
+  },
+  {
+   "name": "Ohmchimera",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Apex",
+   "hp": 150,
+   "rarity": "holo",
+   "base": 22,
+   "attacks": [
+    {
+     "name": "Storm Snap",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Volt Crown",
+     "damage": 110,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "evolves_from": "Teslaclaw",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 3,
+   "variant_of": "tc018",
+   "id": "tc071",
+   "number": 71,
+   "subset_size": 12
+  },
+  {
+   "name": "Ravenkyuubi",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "ultra",
+   "base": 37,
+   "attacks": [
+    {
+     "name": "Void Crown",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Moonless Burst",
+     "damage": 110,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "evolves_from": "Dusktail",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 4,
+   "variant_of": "tc030",
+   "id": "tc072",
+   "number": 72,
+   "subset_size": 12
+  },
+  {
+   "name": "Cinderleviathan",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 200,
+   "rarity": "holo",
+   "base": 21,
+   "attacks": [
+    {
+     "name": "Inferno Snap",
+     "damage": 40,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Magma Wave",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "evolves_from": "Flaregill",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 5,
+   "variant_of": "tc012",
+   "id": "tc073",
+   "number": 73,
+   "subset_size": 12
+  },
+  {
+   "name": "Auramech",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 180,
+   "rarity": "holo",
+   "base": 18,
+   "attacks": [
+    {
+     "name": "Dawn Burst",
+     "damage": 40,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Holy Break",
+     "damage": 110,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "evolves_from": "Aurahound",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 6,
+   "variant_of": "tc027",
+   "id": "tc074",
+   "number": 74,
+   "subset_size": 12
+  },
+  {
+   "name": "Warlord Lucan",
+   "kind": "Captain",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 5,
+   "rarity": "ultra",
+   "base": 36,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 7,
+   "variant_of": "tc045",
+   "id": "tc075",
+   "number": 75,
+   "subset_size": 12
+  },
+  {
+   "name": "Admiral Thessaly",
+   "kind": "Captain",
+   "element": "terra",
+   "family": "Skyforge Order",
+   "sub": "Skyforge Order",
+   "hp": 0,
+   "life": 5,
+   "rarity": "holo",
+   "base": 15,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 8,
+   "variant_of": "tc046",
+   "id": "tc076",
+   "number": 76,
+   "subset_size": 12
+  },
+  {
+   "name": "Scholar Corin",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "trait": "Scholar",
+   "sub": "Scholar · Neon Ronin",
+   "hp": 0,
+   "power": 5000,
+   "cost": 3,
+   "rarity": "holo",
+   "base": 21,
+   "ability": "On Deploy: draw a card.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 9,
+   "variant_of": "tc047",
+   "id": "tc077",
+   "number": 77,
+   "subset_size": 12
+  },
+  {
+   "name": "Royal Ivo",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Royal",
+   "sub": "Royal · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 6000,
+   "cost": 5,
+   "rarity": "ultra",
+   "base": 52,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 10,
+   "variant_of": "tc048",
+   "id": "tc078",
+   "number": 78,
+   "subset_size": 12
+  },
+  {
+   "name": "Healer Remy",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "trait": "Healer",
+   "sub": "Healer · Neon Ronin",
+   "hp": 0,
+   "power": 4000,
+   "cost": 1,
+   "rarity": "holo",
+   "base": 23,
+   "ability": "Your Riftborn of this element get +20 HP.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 11,
+   "variant_of": "tc049",
+   "id": "tc079",
+   "number": 79,
+   "subset_size": 12
+  },
+  {
+   "name": "Tamer Tamsin",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Verdant Wardens",
+   "trait": "Tamer",
+   "sub": "Tamer · Verdant Wardens",
+   "hp": 0,
+   "power": 5000,
+   "cost": 5,
+   "rarity": "holo",
+   "base": 25,
+   "ability": "On Deploy: draw a card.",
+   "flavor": "",
+   "subset": "Rift Gallery",
+   "subset_code": "RG",
+   "subset_number": 12,
+   "variant_of": "tc050",
+   "id": "tc080",
+   "number": 80,
+   "subset_size": 12
+  },
+  {
+   "name": "Surfcog",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Spark",
+   "sub": "Mecha-beast · Spark",
+   "hp": 60,
+   "rarity": "holo",
+   "base": 22,
+   "attacks": [
+    {
+     "name": "Bubble Wave",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Tidal Wave",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 1,
+   "variant_of": "tc001",
+   "id": "tc081",
+   "number": 81,
+   "subset_size": 12
+  },
+  {
+   "name": "Ripplecolossus",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Golem",
+   "stage": "Apex",
+   "sub": "Golem · Apex",
+   "hp": 150,
+   "rarity": "rare",
+   "base": 10,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 30,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Abyss Lash",
+     "damage": 90,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It naps for a hundred years at a time.",
+   "evolves_from": "Abyssguard",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 2,
+   "variant_of": "tc006",
+   "id": "tc082",
+   "number": 82,
+   "subset_size": 12
+  },
+  {
+   "name": "Pulsecub",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Chimera",
+   "stage": "Spark",
+   "sub": "Chimera · Spark",
+   "hp": 70,
+   "rarity": "rare",
+   "base": 11,
+   "attacks": [
+    {
+     "name": "Static Storm",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Arc Break",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Scholars still argue about which beast came first.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 3,
+   "variant_of": "tc016",
+   "id": "tc083",
+   "number": 83,
+   "subset_size": 12
+  },
+  {
+   "name": "Undinegolem",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Golem",
+   "stage": "Single",
+   "sub": "Golem",
+   "hp": 100,
+   "rarity": "holo",
+   "base": 21,
+   "attacks": [
+    {
+     "name": "Rip Gaze",
+     "damage": 10,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Coral Roar",
+     "damage": 40,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Mountains are rumored to be its sleeping elders.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 4,
+   "variant_of": "tc039",
+   "id": "tc084",
+   "number": 84,
+   "subset_size": 12
+  },
+  {
+   "name": "Surfmech",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 200,
+   "rarity": "rare",
+   "base": 11,
+   "attacks": [
+    {
+     "name": "Deluge Roar",
+     "damage": 50,
+     "text": "Discard an energy from this Riftborn."
+    },
+    {
+     "name": "Abyss Roar",
+     "damage": 150,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Surfgear",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 5,
+   "variant_of": "tc003",
+   "id": "tc085",
+   "number": 85,
+   "subset_size": 12
+  },
+  {
+   "name": "Flintfox",
+   "kind": "Riftborn",
+   "element": "terra",
+   "family": "Kitsune",
+   "stage": "Single",
+   "sub": "Kitsune",
+   "hp": 70,
+   "rarity": "rare",
+   "base": 12,
+   "attacks": [
+    {
+     "name": "Rock Spear",
+     "damage": 20,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Amber Snap",
+     "damage": 70,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 6,
+   "variant_of": "tc037",
+   "id": "tc086",
+   "number": 86,
+   "subset_size": 12
+  },
+  {
+   "name": "Brinefox",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Kitsune",
+   "stage": "Single",
+   "sub": "Kitsune",
+   "hp": 100,
+   "rarity": "holo",
+   "base": 21,
+   "attacks": [
+    {
+     "name": "Rip Wave",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Coral Break",
+     "damage": 50,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Villages leave lanterns lit so it passes them by.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 7,
+   "variant_of": "tc044",
+   "id": "tc087",
+   "number": 87,
+   "subset_size": 12
+  },
+  {
+   "name": "Aurahound",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Mecha-beast",
+   "stage": "Surge",
+   "sub": "Mecha-beast · Surge",
+   "hp": 90,
+   "rarity": "rare",
+   "base": 12,
+   "attacks": [
+    {
+     "name": "Halo Storm",
+     "damage": 20,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Radiant Storm",
+     "damage": 70,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "evolves_from": "Solarbolt",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 8,
+   "variant_of": "tc026",
+   "id": "tc088",
+   "number": 88,
+   "subset_size": 12
+  },
+  {
+   "name": "Spraysprite",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 110,
+   "rarity": "rare",
+   "base": 9,
+   "attacks": [
+    {
+     "name": "Rip Burst",
+     "damage": 20,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Coral Wave",
+     "damage": 60,
+     "text": "Switch this Riftborn with one on your bench."
+    }
+   ],
+   "flavor": "It paints the sky at sunrise and sunset.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 9,
+   "variant_of": "tc035",
+   "id": "tc089",
+   "number": 89,
+   "subset_size": 12
+  },
+  {
+   "name": "Staticpixie",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Sprite",
+   "stage": "Single",
+   "sub": "Sprite",
+   "hp": 70,
+   "rarity": "holo",
+   "base": 18,
+   "attacks": [
+    {
+     "name": "Thunder Burst",
+     "damage": 20,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Chain Snap",
+     "damage": 70,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Where it dances, the rift stays calm.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 10,
+   "variant_of": "tc040",
+   "id": "tc090",
+   "number": 90,
+   "subset_size": 12
+  },
+  {
+   "name": "Cinderminnow",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Leviathan",
+   "stage": "Spark",
+   "sub": "Leviathan · Spark",
+   "hp": 70,
+   "rarity": "rare",
+   "base": 7,
+   "attacks": [
+    {
+     "name": "Ember Snap",
+     "damage": 10,
+     "text": "Look at the top 3 cards of your deck and put them back in any order."
+    },
+    {
+     "name": "Flame Rush",
+     "damage": 30,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "It sings to the tides when the rifts open.",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 11,
+   "variant_of": "tc010",
+   "id": "tc091",
+   "number": 91,
+   "subset_size": 12
+  },
+  {
+   "name": "Dusktail",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Kitsune",
+   "stage": "Surge",
+   "sub": "Kitsune · Surge",
+   "hp": 120,
+   "rarity": "rare",
+   "base": 8,
+   "attacks": [
+    {
+     "name": "Eclipse Snap",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    },
+    {
+     "name": "Dread Rush",
+     "damage": 60,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "It chases its own tails until they set the grass alight.",
+   "evolves_from": "Shroudkit",
+   "subset": "Shiny Vault",
+   "subset_code": "SV",
+   "subset_number": 12,
+   "variant_of": "tc029",
+   "id": "tc092",
+   "number": 92,
+   "subset_size": 12
+  },
+  {
+   "name": "Kelptron",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Legend",
+   "hp": 200,
+   "rarity": "secret",
+   "base": 93,
+   "attacks": [
+    {
+     "name": "Deluge Roar",
+     "damage": 60,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Abyss Pulse",
+     "damage": 150,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc093",
+   "number": 93,
+   "subset_number": 1,
+   "subset_size": 8
+  },
+  {
+   "name": "Bramblekyuubi",
+   "kind": "Riftborn",
+   "element": "verdant",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Legend",
+   "hp": 200,
+   "rarity": "holo",
+   "base": 16,
+   "attacks": [
+    {
+     "name": "Thorn Rush",
+     "damage": 60,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Bloom Pulse",
+     "damage": 150,
+     "text": "Flip a coin. If heads, draw a card."
+    }
+   ],
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc094",
+   "number": 94,
+   "subset_number": 2,
+   "subset_size": 8
+  },
+  {
+   "name": "Undineking",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Legend",
+   "hp": 220,
+   "rarity": "holo",
+   "base": 23,
+   "attacks": [
+    {
+     "name": "Deluge Break",
+     "damage": 60,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Abyss Wave",
+     "damage": 170,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc095",
+   "number": 95,
+   "subset_number": 3,
+   "subset_size": 8
+  },
+  {
+   "name": "Glimmer Lantern",
+   "kind": "Relic",
+   "element": "lumen",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 10,
+   "ability": "The Riftborn this is attached to does 20 more damage.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc096",
+   "number": 96,
+   "subset_number": 4,
+   "subset_size": 8
+  },
+  {
+   "name": "Abyss Sigil",
+   "kind": "Relic",
+   "element": "tide",
+   "family": "Relic",
+   "sub": "Equipment",
+   "hp": 0,
+   "rarity": "rare",
+   "base": 9,
+   "ability": "Once per turn: heal 10 from the Riftborn this is attached to.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc097",
+   "number": 97,
+   "subset_number": 5,
+   "subset_size": 8
+  },
+  {
+   "name": "Tamer Vance",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Neon Ronin",
+   "trait": "Tamer",
+   "sub": "Tamer · Neon Ronin",
+   "hp": 0,
+   "power": 7000,
+   "cost": 5,
+   "rarity": "rare",
+   "base": 9,
+   "ability": "On Deploy: draw a card.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc098",
+   "number": 98,
+   "subset_number": 6,
+   "subset_size": 8
+  },
+  {
+   "name": "Tamer Emmett",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Hollow Moon Syndicate",
+   "trait": "Tamer",
+   "sub": "Tamer · Hollow Moon Syndicate",
+   "hp": 0,
+   "power": 6000,
+   "cost": 5,
+   "rarity": "rare",
+   "base": 7,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc099",
+   "number": 99,
+   "subset_number": 7,
+   "subset_size": 8
+  },
+  {
+   "name": "Warlord Hana",
+   "kind": "Captain",
+   "element": "verdant",
+   "family": "Verdant Wardens",
+   "sub": "Verdant Wardens",
+   "hp": 0,
+   "life": 6,
+   "rarity": "ultra",
+   "base": 39,
+   "ability": "Tide Turner: once per game, switch both active Riftborn.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "subset": "Sunken Court",
+   "subset_code": "SC",
+   "id": "tc100",
+   "number": 100,
+   "subset_number": 8,
+   "subset_size": 8
+  },
+  {
+   "name": "Rippleleviathan",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 160,
+   "rarity": "alt",
+   "base": 36,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 30,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Abyss Crown",
+     "damage": 90,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "id": "tc009-aa",
+   "number": 101,
+   "variant": "alt",
+   "variant_of": "tc009",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 1,
+   "subset_size": 17
+  },
+  {
+   "name": "Ohmchimera",
+   "kind": "Riftborn",
+   "element": "volt",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Apex",
+   "hp": 150,
+   "rarity": "alt",
+   "base": 25,
+   "attacks": [
+    {
+     "name": "Storm Snap",
+     "damage": 40,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    },
+    {
+     "name": "Volt Crown",
+     "damage": 110,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "It guards what it loves with every head it has.",
+   "id": "tc018-aa",
+   "number": 102,
+   "variant": "alt",
+   "variant_of": "tc018",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 2,
+   "subset_size": 17
+  },
+  {
+   "name": "Ravenkyuubi",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "alt",
+   "base": 21,
+   "attacks": [
+    {
+     "name": "Void Crown",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Moonless Burst",
+     "damage": 110,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "id": "tc030-aa",
+   "number": 103,
+   "variant": "alt",
+   "variant_of": "tc030",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 3,
+   "subset_size": 17
+  },
+  {
+   "name": "Healer Sol",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Abyss Choir",
+   "trait": "Healer",
+   "sub": "Healer · Abyss Choir",
+   "hp": 0,
+   "power": 6000,
+   "cost": 2,
+   "rarity": "alt",
+   "base": 25,
+   "ability": "Prevent the first 30 damage done to your Captain each turn.",
+   "flavor": "",
+   "id": "tc056-aa",
+   "number": 104,
+   "variant": "alt",
+   "variant_of": "tc056",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 4,
+   "subset_size": 17
+  },
+  {
+   "name": "Ravenkyuubi",
+   "kind": "Riftborn",
+   "element": "umbra",
+   "family": "Kitsune",
+   "stage": "Apex",
+   "sub": "Kitsune · Apex",
+   "hp": 200,
+   "rarity": "alt",
+   "base": 37,
+   "attacks": [
+    {
+     "name": "Void Crown",
+     "damage": 40,
+     "text": "This attack does 10 more damage for each energy attached."
+    },
+    {
+     "name": "Moonless Burst",
+     "damage": 110,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Each new tail marks a century of mischief.",
+   "variant_of": "tc072",
+   "id": "tc072-aa",
+   "number": 105,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 5,
+   "subset_size": 17
+  },
+  {
+   "name": "Cinderleviathan",
+   "kind": "Riftborn",
+   "element": "ember",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 200,
+   "rarity": "alt",
+   "base": 21,
+   "attacks": [
+    {
+     "name": "Inferno Snap",
+     "damage": 40,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Magma Wave",
+     "damage": 110,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "Whole towns have been built on its back.",
+   "variant_of": "tc073",
+   "id": "tc073-aa",
+   "number": 106,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 6,
+   "subset_size": 17
+  },
+  {
+   "name": "Auramech",
+   "kind": "Riftborn",
+   "element": "lumen",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Apex",
+   "hp": 180,
+   "rarity": "alt",
+   "base": 18,
+   "attacks": [
+    {
+     "name": "Dawn Burst",
+     "damage": 40,
+     "text": "Switch this Riftborn with one on your bench."
+    },
+    {
+     "name": "Holy Break",
+     "damage": 110,
+     "text": "Discard an energy from this Riftborn."
+    }
+   ],
+   "flavor": "Its gears tick in rhythm with the rift.",
+   "variant_of": "tc074",
+   "id": "tc074-aa",
+   "number": 107,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 7,
+   "subset_size": 17
+  },
+  {
+   "name": "Warlord Lucan",
+   "kind": "Captain",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 5,
+   "rarity": "alt",
+   "base": 36,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "variant_of": "tc075",
+   "id": "tc075-aa",
+   "number": 108,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 8,
+   "subset_size": 17
+  },
+  {
+   "name": "Scholar Corin",
+   "kind": "Crew",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "trait": "Scholar",
+   "sub": "Scholar · Neon Ronin",
+   "hp": 0,
+   "power": 5000,
+   "cost": 3,
+   "rarity": "alt",
+   "base": 21,
+   "ability": "On Deploy: draw a card.",
+   "flavor": "",
+   "variant_of": "tc077",
+   "id": "tc077-aa",
+   "number": 109,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 9,
+   "subset_size": 17
+  },
+  {
+   "name": "Royal Ivo",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Royal",
+   "sub": "Royal · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 6000,
+   "cost": 5,
+   "rarity": "alt",
+   "base": 52,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "variant_of": "tc078",
+   "id": "tc078-aa",
+   "number": 110,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 10,
+   "subset_size": 17
+  },
+  {
+   "name": "Surfcog",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Spark",
+   "sub": "Mecha-beast · Spark",
+   "hp": 60,
+   "rarity": "alt",
+   "base": 22,
+   "attacks": [
+    {
+     "name": "Bubble Wave",
+     "damage": 10,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Tidal Wave",
+     "damage": 20,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "Built by Skyforge apprentices, then it built itself.",
+   "variant_of": "tc081",
+   "id": "tc081-aa",
+   "number": 111,
+   "variant": "alt",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 11,
+   "subset_size": 17
+  },
+  {
+   "name": "Undineking",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Chimera",
+   "stage": "Apex",
+   "sub": "Chimera · Legend",
+   "hp": 220,
+   "rarity": "alt",
+   "base": 23,
+   "attacks": [
+    {
+     "name": "Deluge Break",
+     "damage": 60,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Abyss Wave",
+     "damage": 170,
+     "text": "Heal 20 damage from this Riftborn."
+    }
+   ],
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "id": "tc095-aa",
+   "number": 112,
+   "variant": "alt",
+   "variant_of": "tc095",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 12,
+   "subset_size": 17
+  },
+  {
+   "name": "Warlord Lucan",
+   "kind": "Captain",
+   "element": "tide",
+   "family": "Neon Ronin",
+   "sub": "Neon Ronin",
+   "hp": 0,
+   "life": 5,
+   "rarity": "illus",
+   "base": 36,
+   "ability": "Iron Will: your Captain takes 10 less damage from attacks.",
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "variant_of": "tc075",
+   "id": "tc075-ri",
+   "number": 113,
+   "variant": "illus",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 13,
+   "subset_size": 17
+  },
+  {
+   "name": "Royal Ivo",
+   "kind": "Crew",
+   "element": "gale",
+   "family": "Crimson Gale Pirates",
+   "trait": "Royal",
+   "sub": "Royal · Crimson Gale Pirates",
+   "hp": 0,
+   "power": 6000,
+   "cost": 5,
+   "rarity": "illus",
+   "base": 52,
+   "ability": "On Deploy: heal 30 damage from one of your Riftborn.",
+   "flavor": "",
+   "variant_of": "tc078",
+   "id": "tc078-ri",
+   "number": 114,
+   "variant": "illus",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 14,
+   "subset_size": 17
+  },
+  {
+   "name": "Rippleleviathan",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 160,
+   "rarity": "gold",
+   "base": 100,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 30,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Abyss Crown",
+     "damage": 90,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "variant_of": "tc069",
+   "id": "tc069-pg",
+   "number": 115,
+   "variant": "gold",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 15,
+   "subset_size": 17
+  },
+  {
+   "name": "Kelptron",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Mecha-beast",
+   "stage": "Apex",
+   "sub": "Mecha-beast · Legend",
+   "hp": 200,
+   "rarity": "gold",
+   "base": 93,
+   "attacks": [
+    {
+     "name": "Deluge Roar",
+     "damage": 60,
+     "text": "Flip a coin. If heads, draw a card."
+    },
+    {
+     "name": "Abyss Pulse",
+     "damage": 150,
+     "text": "If your opponent has a Sky Isle in play, discard it."
+    }
+   ],
+   "flavor": "The Abyss Choir raises a sunken kingdom into the clouds.",
+   "id": "tc093-pg",
+   "number": 116,
+   "variant": "gold",
+   "variant_of": "tc093",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 16,
+   "subset_size": 17
+  },
+  {
+   "name": "Rippleleviathan",
+   "kind": "Riftborn",
+   "element": "tide",
+   "family": "Leviathan",
+   "stage": "Apex",
+   "sub": "Leviathan · Apex",
+   "hp": 160,
+   "rarity": "relic",
+   "base": 100,
+   "attacks": [
+    {
+     "name": "Deluge Pulse",
+     "damage": 30,
+     "text": "Your opponent's active Riftborn is now Dazed."
+    },
+    {
+     "name": "Abyss Crown",
+     "damage": 90,
+     "text": "This attack does 10 more damage for each energy attached."
+    }
+   ],
+   "flavor": "Sailors toss it fish for good winds.",
+   "variant_of": "tc069",
+   "id": "tc069-rx",
+   "number": 117,
+   "variant": "relic",
+   "subset": "Rift Variants",
+   "subset_code": "RV",
+   "subset_number": 17,
+   "subset_size": 17
+  }
+ ]
+}
